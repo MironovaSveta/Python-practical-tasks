@@ -1,0 +1,1324 @@
+protein-expression
+  competent-cells-for-difficult-protein-expression
+    toxic-proteins
+      Number of elements = 1: {'bl21-competent-cells-232941'}
+    codon-bias-solubility
+      Number of elements = 1: {'arcticexpress-rp-ril-competent-cells-232940'}
+    codon-bias
+      Number of elements = 1: {'bl21-codonplus-competent-cells-232942'}
+    insoluble-proteins
+      Number of elements = 1: {'arcticexpress-(de3)-competent-cells-232939'}
+  protein-expression-vectors-kits
+    bacterial-expression-vectors
+      Number of elements = 2: {'affinity-protein-expression-purification-system-232950', 'pet-expression-system-232967'}
+    resins
+      Number of elements = 3: {'streptavidin-resin-232983', 'strataclean-resin-232982', 'calmodulin-affinity-resin-232951'}
+    mammalian-expression-vectors
+      Number of elements = 6: {'lacswitch-ii-232957', 'psg5-vectors-232971', 'pcmv-3tag-vectors-232960', 'pmc1neo-vectors-232969', 'pcmv-script-vectors-232961', 'pcmv-tag-vectors-232962'}
+    codon-bias
+      Number of elements = 1: {'codon-bias-232952'}
+    inducible-mammalian-expression-vectors
+      Number of elements = 5: {'pcfb-egsh-retroviral-vector-232959', 'complete-control-system-232953', 'pfb-erv-vector-232968', 'perv3-vector-232965', 'ponasterone-a-232970'}
+    viral-mediated-delivery-systems
+      Number of elements = 11: {'viraport-retroviral-gene-expression-system-232992', 'bj5183-electroporation-competent-cells-232990', 'aav-293-cells-232993', 'ad-293-cells-232994', 'aav-ht1080-cells-232991', 'aav-helper-free-system-232989', 'paav-hrgfp-vector-232995', 'adeasy-viral-titer-kit-232998', 'adeasy-virus-purification-kit-232999', 'adeasy-adenoviral-vector-systems-232997', 'padeasy-pshuttle-vectors-232996'}
+    yeast-expression-vectors
+      Number of elements = 1: {'pesc-yeast-epitope-tagging-vectors-232966'}
+    dual-expression-vectors
+      Number of elements = 2: {'pdual-expression-system-232963', 'pbk-cmv-phagemid-vector-232958'}
+    reporter-systems-vectors
+      Number of elements = 6: {'pathdetect-trans-reporting-systems-232981', 'pathdetect-cis-reporting-systems-232977', 'pathdetect-reporter-plasmid-232980', 'pathdetect-control-plasmid-reporting-systems-232976', 'pathdetect-control-plasmid-232978', 'pathdetect-reporter-activator-plasmid-232979'}
+    fluorescent-expression-vectors
+      Number of elements = 2: {'vitality-pires-hrgfp-vector-232975', 'vitality-hrgfp-ii-mammalian-expression-232974'}
+    protein-interactions-expression-vectors
+      Number of elements = 2: {'interplay-mammalian-tap-system-232956', 'interplay-adenoviral-terminal-vector-232955'}
+  competent-cells-for-routine-protein-expression
+    general-protein-expression
+      Number of elements = 2: {'bl21(de3)-competent-cells-232943', 'protein-expression-competent-cell-pack-232944'}
+    phosphoprotein-generation
+      Number of elements = 1: {'tk-competent-cells-232945'}
+  protein-expression-transfection-reagent-kits
+    transfection-reagents
+      Number of elements = 1: {'genejammer-232987'}
+    transfection-kits
+      Number of elements = 3: {'mbs-mammalian-transfection-kit-232985', 'mammalian-transfection-kit-232984', 'virapack-transfection-kit-232986'}
+  protein-expression-purification
+    tandem-affinity-purification-kits
+      Number of elements = 4: {'interplay-mammalian-tap-system-kit-232948', 'interplay-mammalian-tap-purification-kit-232947', 'interplay-adenoviral-tap-system-232946', 'interplay-tap-purification-buffer-kit-232949'}
+  protein-expression-antibodies-antibiotics
+    antibiotics
+      Number of elements = 2: {'g418-sulfate-232935', 'hygromycin-b-232936'}
+    antibodies
+      Number of elements = 2: {'vitality-hrgfp-monoclonal-antibody-232938', 'anti-flag-antibodies-232937'}
+gas-chromatography
+  gc-supplies-accessories
+    inlet-liners-seals-o-rings-for-gc
+      Number of elements = 11: {'split-liners-for-gc', 'splitless-liners-for-gc', 'direct-connect-liners-for-gc', 'split-splitless-inlet-gold-seals-for-gc', 'liner-o-rings-for-third-party-gc-instruments', 'dimpled-liners-for-gc', 'inlet-convenience-kits-for-gc', 'inlet-liners-for-third-party-gc-instruments', 'flip-top-inlet-sealing-system-for-gc', 'ultra-inert-liners-for-gc', 'liner-o-rings-for-gc'}
+    inlet-accessories-for-gc
+      Number of elements = 4: {'programmable-temperature-vaporizing-ptv-inlet-for-gc', 'purged-packed-inlet-for-gc', 'cool-on-column-coc-inlet-for-gc', 'multimode-inlet-supplies-for-gc'}
+    ferrules-connectors-for-gc
+      Number of elements = 12: {'column-nuts-for-third-party-gc-instruments', 'ultimate-union-for-gc', 'graphite-vespel-ferrules-for-gc', 'self-tightening-column-nuts-for-gc', 'graphite-ferrules-for-gc', 'ultra-inert-press-fit-column-connectors-for-gc', 'vespel-ferrules-for-gc', 'ultimetal-plus-flexible-metal-ferrules-for-gc', 'capillary-flow-technology-cft-supplies', 'column-ferrules-for-third-party-gc-instruments', 'quickswap-restrictors-for-gc', 'column-nuts-for-gc'}
+    inlet-septa-for-gc
+      Number of elements = 5: {'advanced-green-septa-for-gc', 'general-purpose-septa-for-gc', 'merlin-microseal-for-gc', 'long-life-septa-for-gc', 'bleed-temperature-optimized-bto-septa-for-gc'}
+    detector-parts-accessories-for-gc
+      Number of elements = 7: {'flame-ionization-detector-fid-for-gc', 'electron-capture-detector-ecd-for-gc', 'flame-photometric-detector-fpd-for-gc', 'nitrogen-phosphorus-detector-npd-for-gc', 'sulfur-chemiluminescence-detector-supplies-for-gc', 'thermal-conductivity-detector-tcd', 'nitrogen-chemiluminescence-detector-supplies-for-gc'}
+    intuvo-supplies
+      Number of elements = 6: {'intuvo-gas-clean-filter-kit', 'intuvo-tools', 'intuvo-flow-chips', 'intuvo-gaskets', 'intuvo-install-kit', 'intuvo-guard-chips-jumper-chips'}
+    autosampler-sample-introduction-supplies-for-gc
+      Number of elements = 6: {'ctc-gc-autosampler-supplies', 'thermal-desorption-supplies-for-gc', 'purge-trap-supplies-for-gc', 'gas-liquid-sampling-valve-supplies', 'headspace-sampler-supplies-for-gc', 'agilent-autosampler-supplies'}
+    capillary-tubing-accessories-for-gc
+      Number of elements = 5: {'capillary-column-rinse-kit-for-gc', 'fused-silica-tubing-cutters-for-gc', 'capillary-column-installation-kit-for-gc', 'column-baskets-hangers-for-gc', 'column-installation-pre-swaging-tools-for-gc'}
+  gc-sample-preparation-introduction
+    Number of elements = 11: {'7693a-automatic-liquid-sampler', 'barcode-printing-bundle', 'thermal-separation-probe', '7696a-sample-prep-workbench', 'thermal-desorption', '8697-headspace-sampler', 'purge-trap', 'g1888-headspace-sampler', 'pal-auto-sampler-systems', '7650a-automatic-liquid-sampler', '7697a-headspace-sampler'}
+  gc-analyzers
+    energy-chemical-gc-analyzers
+      Number of elements = 8: {'refinery-gas-analyzers', 'liquefied-petroleum-gas-analyzers', 'natural-gas-analyzers', 'micro-gc-refinery-gas-analyzer', '490-micro-gc-biogas-analyzer', 'reformulated-fuel-analyzers', 'biodiesel-analyzers', 'micro-gc-natural-gas-analyzer'}
+    forensic-gc-analyzers
+      Number of elements = 2: {'blood-alcohol-analyzer', 'intuvo-blood-alcohol-analyzer'}
+    gas-impurities-measurements-gc-analyzers
+      Number of elements = 3: {'polymer-grade-monomer-analyzers', 'co-co2-analyzers', 'bulk-gas-impurities-analyzers'}
+    dissolved-gas-gc-analyzer
+      Number of elements = 1: {'transformer-oil-gas-analyzers-toga'}
+    pharmaceutical-gc-analyzers
+      Number of elements = 2: {'intuvo-residual-solvent-analyzer', 'residual-solvent-analyzer'}
+    environmental-gc-analyzers
+      Number of elements = 2: {'greenhouse-gas-analyzer', 'sulfur-nitrosamine-analyzers'}
+  gc-systems
+    Number of elements = 9: {'490-pro-micro-gc-system', '7890b-gc-system', '7820a-gc-system', '8890-gc-system', 'intuvo-9000-gc-system', '990-micro-gc-system', '8860-gc-system', '490-micro-gc-system', '490-mobile-micro-gc-system'}
+  gc-detectors
+    Number of elements = 7: {'flame-photometric-detector-plus-fpd-plus', 'micro-ecd', 'nitrogen-chemiluminescence-detector', 'blos-nitrogen-phosphorus-detector-npd', 'thermal-conductivity-detector', 'sulfur-chemiluminescence-detector', 'flame-ionization-detector'}
+  gc-inlets
+    Number of elements = 6: {'programmable-cool-on-column-inlet', 'multimode-inlet', 'programmable-temperature-vaporizer-inlet', 'split-splitless-inlet', 'volatiles-interface', 'purged-packed-inlet'}
+  gc-gc-ms-technologies
+    Number of elements = 3: {'capillary-flow-technology', 'ltm-series-ii-rapid-heating-cooling-for-7890-gc', 'large-valve-oven-for-gc'}
+research-flow-cytometry
+  reagents-for-flow-cytometry
+    single-color-antibodies
+      Number of elements = 30: {'cd14-787298', 'ki-67-992415', 'cd55-787394', 'cd99-787417', 'cd117-1146525', 'cd23-787328', 'cd19-1149104', 'cd8-992398', 'terminal-deoxynucleotidyl-transferase-787432', 'cd27-1149363', 'cd90-787416', 'cd56-787395', 'cd54-981615', 'cd9-787415', 'cd123-1149103', 'cd13-787296', 'cd64-787400', 'cd44-787384', 'cd11b-1149396', 'cd3-1149364', 'cd117', 'cd28-981593', 'cd105-1146523', 'cd105', 'bcl2-992383', 'cd38-787370', 'cd36-787369', 'cd45-1149373', 'cd123', 'cd73-787405'}
+    buffers-reagents
+      Number of elements = 3: {'telomere-pna-kit-981980', 'quantitative-analysis-kit-981969', 'lysing-fixation-permeabilization-reagents-1884378'}
+  flow-cytometers
+    flow-cytometer-systems
+      Number of elements = 4: {'novocyte-quanteon-flow-cytometer-systems-4-lasers-984692', 'novocyte-penteon-flow-cytometer-1270342', 'novocyte-advanteon-flow-cytometer-1270335', 'novocyte-flow-cytometer-systems-1-3-lasers-984681'}
+    flow-cytometry-automation
+      Number of elements = 3: {'novosampler-pro-1320842', 'novosampler-q-1320848', 'robotic-arm-pf400-1320851'}
+    instrument-consumables-accessories
+      Number of elements = 6: {'quality-control-calibration-particles-for-flow-cytometry-1320880', 'tube-holders-racks-for-flow-cytometry-1320886', 'decontamination-kits-for-flow-cytometry-1320856', 'optical-filter-assemblies-for-flow-cytometry-1320876', 'fluidics-system-solutions-for-flow-cytometry-1320867', 'fluidics-system-supplies-for-flow-cytometry-1320871'}
+    system-upgrades-for-flow-cytometry
+      Number of elements = 1: {'novocyte-system-upgrades-1320885'}
+  flow-cytometry-software
+    Number of elements = 1: {'novocyte-novoexpress-software-1320805'}
+vacuum-technologies
+  ion-pumps-controllers
+    large-ion-pumps
+      Number of elements = 6: {'vacion-plus-300-pump', 'vacion-plus-800-pump', 'vacion-plus-150-pump', 'vacion-plus-1000-pump', 'vacion-plus-500-pump', 'vacion-plus-200-pump'}
+    titanium-sublimation-combination-ion-pumps-tsp
+      Number of elements = 5: {'vacion-plus-300-combination-pump', 'vacion-plus-150-combination-pump', 'tsp-cryopanel', 'tsp-cartridge', 'vacion-plus-500-combination-pump'}
+    medium-ion-pumps
+      Number of elements = 4: {'vacion-plus-55-pump', 'vacion-plus-20-pump', 'vacion-plus-40-pump', 'vacion-plus-75-pump'}
+    ion-pump-controllers
+      Number of elements = 4: {'4-uhv-ion-pump-controller', 'ipcmini-ion-pump-controller', 'tsp-controller', 'controller-for-neg-cartridge-d-400'}
+    ion-pump-accessories
+      Number of elements = 5: {'adapters-feedthroughs-for-ion-pumps', 'pumping-elements-for-ion-pumps', 'magnets-for-ion-pumps', 'heaters-heater-components-for-ion-pumps', 'cables-for-ion-pumps-controllers'}
+    non-evaporable-getter-neg-combination-ion-pumps
+      Number of elements = 4: {'neg-flanges', 'ion-combineg-40-400-pump', 'neg-cartridges', 'ion-combineg-150-1000-2000-pump'}
+    small-ion-pumps
+      Number of elements = 3: {'miniature-ion-pump', 'vacion-2-l-s-pump', 'vacion-10-l-s-pump'}
+  dry-scroll-pumps
+    scroll-pump-accessories
+      Number of elements = 8: {'vibration-isolators-for-scroll-pumps', 'maintenance-kits-for-scroll-pumps', 'cables-cords-for-scroll-pumps', 'mufflers-silencers-filters-for-scroll-pumps', 'speed-control-kits-for-scroll-pumps', 'purge-valves-for-scroll-pumps', 'tip-seals-for-scroll-pumps', 'vacuum-pump-isolation-valve-vpi'}
+    triscroll-pumps
+      Number of elements = 4: {'triscroll-300-inverter-pump', 'triscroll-300-pump', 'triscroll-600-pump', 'triscroll-600-inverter-pump'}
+    idp-pumps
+      Number of elements = 4: {'idp-3-dry-scroll-pump', 'idp-15-dry-scroll-pump', 'idp-7-dry-scroll-pump', 'idp-10-dry-scroll-pump'}
+    starter-kits-for-scroll-pumps
+      Number of elements = 1: {'scroll-pump-starter-bundles'}
+  vacuum-components
+    iso-fittings-flanges
+      Number of elements = 10: {'iso-tees', 'iso-flanges', 'iso-clamps', 'iso-elbows', 'iso-centering-rings', 'iso-nipples', 'iso-crosses', 'iso-reducers', 'iso-weld-stubs', 'iso-bellows-hoses'}
+    adapters
+      Number of elements = 9: {'conflat-to-iso-adapters', 'uhv-compression-ports', 'compression-seal-adapters', 'npt-adapters', 'conflat-to-pyrex-glass-adapters', 'kf-nw-to-conflat-adapters', 'swagelok-adapters', 'vcr-adapters', 'iso-to-kf-nw-adapters'}
+    kf-nw-fittings-flanges
+      Number of elements = 14: {'kf-nw-replacement-o-rings', 'kf-nw-weld-stubs', 'kf-nw-pvc-hoses-hose-clamps', 'kf-nw-nipples', 'kf-nw-elbows', 'kf-nw-quick-clamps', 'kf-nw-blank-off-flanges', 'kf-nw-bellows-hose', 'kf-nw-tees', 'kf-nw-centering-rings', 'kf-nw-reducers', 'kf-nw-unbored-weld-stubs', 'kf-nw-crosses', 'kf-nw-bulkhead-clamps'}
+    vacuum-valves
+      Number of elements = 7: {'aluminum-block-valves-series-26', 'stainless-steel-gate-valves-series-11', 'all-metal-uhv-valves-series-54', 'variable-leak-valve', 'electromagnetic-block-valves', 'stainless-steel-valves', 'aluminum-gate-valves-series-12'}
+    conflat-fittings-flanges
+      Number of elements = 12: {'conflat-tees', 'conflat-bellows-hoses', 'conflat-reducers', 'conflat-half-nipples', 'zero-length-conflat-reducers', 'conflat-viewports', 'conflat-elbows', 'conflat-crosses', 'conflat-nipples', 'conflat-flanges', 'nut-bolt-sets-for-conflat-flanges', 'gaskets-for-conflat-flanges'}
+    torr-seal-vacuum-grease
+      Number of elements = 2: {'epoxies-resins-for-sealing-vacuum-systems', 'vacuum-greases-lubricants'}
+    feedthroughs
+      Number of elements = 2: {'feedthroughs', 'rotary-motion-feedthroughs'}
+  turbo-pumping-systems-tps
+    turbo-pumping-system-tps-accessories
+      Number of elements = 9: {'gauges-for-turbo-pumping-systems', 'connectivity-for-turbo-pumping-systems', 'venting-for-turbo-pumping-systems', 'mains-cables-for-turbo-pumping-systems', 'inlet-screens-for-turbo-pumping-systems', 'pump-extension-cables-for-turbo-pumping-systems', 'cooling-for-turbo-pumping-systems', 'mounting-for-turbo-pumping-systems', 'purging-for-turbo-pumping-systems'}
+    modular-turbo-pumping-systems
+      Number of elements = 2: {'tps-flexy-turbo-pumping-system', 'tps-mobile-turbo-pumping-system'}
+    integrated-turbo-pumping-systems
+      Number of elements = 2: {'tps-compact-turbo-pumping-system', 'tps-mini-turbo-pumping-system'}
+  oil-sealed-rotary-vane-pumps
+    rotary-vane-pump-accessories
+      Number of elements = 7: {'cables-cords-for-rotary-vane-pumps', 'oil-mist-eliminators-cartridges-for-rotary-vane-pumps', 'fitting-kits-for-rotary-vane-pumps', 'maintenance-spare-parts-kits-for-rotary-vane-pumps', 'inlet-filters-traps-for-rotary-vane-pumps', 'vacuum-fluids-for-rotary-vane-pumps', 'oil-filters-oil-returns-drains-for-rotary-vane-pumps'}
+    dual-stage-ds-rotary-vane-pumps
+      Number of elements = 6: {'ds-102-rotary-vane-pump', 'ds-602-rotary-vane-pump', 'ds-202-rotary-vane-pump', 'ds-40m-rotary-vane-pump', 'ds-402-rotary-vane-pump', 'ds-302-rotary-vane-pump'}
+    single-stage-ms-rotary-vane-pumps-for-industry
+      Number of elements = 3: {'ms-101-rotary-vane-pump', 'ms-631-rotary-vane-pump', 'ms-301-rotary-vane-pump'}
+    single-stage-ms-rotary-vane-pumps-for-labs
+      Number of elements = 2: {'ms-120-rotary-vane-pump', 'ms-40-rotary-vane-pump'}
+  helium-leak-detectors
+    leak-detector-accessories
+      Number of elements = 7: {'harsh-environment-he-probe-for-leak-detectors', 'spectrometer-cleaning-kit-for-leak-detectors', 'throttle-valves-for-leak-detectors', 'hld-wireless-remote-control-for-leak-detectors', 'test-fixtures-for-leak-detectors', 'calibrated-leaks-for-leak-detectors', 'sniff-spray-probes-for-leak-detectors'}
+    helium-mass-spectrometer-leak-detectors-hld
+      Number of elements = 10: {'hld-mr15-mobile-helium-leak-detector', 'hld-br15-bench-helium-leak-detector', 'hld-mr30-mobile-helium-leak-detector', 'hld-md15-mobile-dry-helium-leak-detector', 'hld-pd03-portable-dry-helium-leak-detector', 'hld-pr02-portable-helium-leak-detector', 'hld-bd30-bench-dry-helium-leak-detector', 'hld-br30-bench-helium-leak-detector', 'hld-md30-mobile-dry-helium-leak-detector', 'hld-bd15-bench-dry-helium-leak-detector'}
+    component-leak-detector
+      Number of elements = 1: {'c15-component-leak-detector'}
+    portable-sniffer-leak-detector
+      Number of elements = 2: {'phd-4-accessories', 'phd-4-sniffer'}
+  turbo-pumps-controllers
+    turbo-pumps
+      Number of elements = 16: {'twistorr-74-fs-turbo-pump', 'twistorr-84-fs-turbo-pump', 'twistorr-704-fs-turbo-pump', 'turbo-v-1k-g-pump', 'turbo-v-1001-navigator-pump', 'twistorr-305-fs-turbo-pump', 'twistorr-305-ic-sf-turbo-pump-with-integrated-controller', 'twistorr-804-fs-turbo-pump', 'turbo-v-2300-twistorr-pump', 'twistorr-404-fs-turbo-pump', 'turbo-v-3k-g-pump', 'twistorr-305-ic-turbo-pump-with-integrated-controller', 'twistorr-305-fsq-turbo-pump', 'turbo-v-2k-g-pump', 'twistorr-305-icq-turbo-pump-with-integrated-controller', 'twistorr-305-sf-turbo-pump'}
+    starter-kits-for-turbo-pumps
+      Number of elements = 1: {'starter-bundles-for-turbo-pumps'}
+    turbo-pump-controllers
+      Number of elements = 10: {'twistorr-medium-tmp-rack-controller', 'turbo-v-2300-rack-controller', 'twistorr-medium-tmp-onboard-controller', 'twistorr-84-fs-onboard-controller', 'twistorr-84-fs-ag-rack-controller', 'twistorr-305-fs-remote-controller', 'turbo-v-1001-navigator-controller', 'turbo-v-1001-rack-controller', 'twistorr-74-fs-ag-rack-controller', 'twistorr-74-fs-onboard-controller'}
+    turbo-pump-controller-accessories
+      Number of elements = 9: {'gauges-for-turbo-pumps', 'pump-extension-cables-for-turbo-pumps', 'mounting-for-turbo-pumps', 'cooling-for-turbo-pumps', 'inlet-screens-for-turbo-pumps', 'venting-for-turbo-pumps', 'purging-for-turbo-pumps', 'mains-cables-for-turbo-pumps', 'connectivity-for-turbo-pumps'}
+  roots-pumps-rp-roots-pumping-systems-rps
+    roots-pumping-systems-rps
+      Number of elements = 7: {'rps-751-301-roots-pumping-system', 'rps-4001-631-roots-pumping-system', 'rps-1401-301-roots-pumping-system', 'rps-2001-631-roots-pumping-system', 'rps-3001-631-roots-pumping-system', 'rps-501-301-roots-pumping-system', 'rps-1001-301-roots-pumping-system'}
+    roots-pumps-rp
+      Number of elements = 8: {'rp-4001-roots-pump', 'rp-1401-roots-pump', 'rp-251-roots-pump', 'rp-751-roots-pump', 'rp-501-roots-pump', 'rp-3001-roots-pump', 'rp-1001-roots-pump', 'rp-2001-roots-pump'}
+    roots-pump-rp-roots-pumping-system-rps-accessories
+      Number of elements = 5: {'inlet-filters-traps-for-rp-rps', 'variable-frequency-drives-for-rp-rps', 'maintenance-spare-parts-kits-for-rp-rps', 'fitting-kits-for-rp-rps', 'vacuum-fluids-for-rp-rps'}
+  vacuum-measurement
+    vacuum-transducers
+      Number of elements = 12: {'525-cold-cathode-gauge-tube', '536-thermocouple', 'img-300-uhv-inverted-magnetron-gauge', 'mba2-200-hot-filament-gauge', 'convectorr-gauge-tube', '563-bayard-alpert-gauge-tube', '571-bayard-alpert-gauge-tube', '531-thermocouple', '572-bayard-alpert-gauge-tube', 'uhv-24-bayard-alpert-gauge-tube', 'tc-gauge-simulator', 'img-100-inverted-magnetron-gauge'}
+    active-gauges
+      Number of elements = 5: {'pvg-500-pvg-500s-pvg-502s-series-pirani-gauges', 'pcg-750-pcg-752-series-pirani-capacitance-diaphragm-gauges', 'frg-700-702-full-range-pirani-inverted-magnetron-gauge', 'cdg-500-capacitance-diaphragm-gauge', 'frg-720-730-full-range-pirani-bayard-alpert-gauge'}
+    gauge-controllers
+      Number of elements = 6: {'rgc-100-rough-vacuum-gauge-controller', 'hgc-536-portable-gauge-controller', 'rgc-100t-radiation-resistant-rough-vacuum-gauge-controller', 'agc-100-agd100-controller', 'rgc-150-rough-vacuum-gauge-controller', 'xgs-600-vacuum-gauge-controller'}
+    vacuum-gauge-cables
+      Number of elements = 1: {'cables-for-active-gauges-gauge-controllers-transducers'}
+  diffusion-pumps
+    small-diffusion-pumps
+      Number of elements = 6: {'hs-2-diffusion-pump', 'vhs-10-diffusion-pump', 'vhs-4-diffusion-pump', 'ax-65-diffusion-pump', 'vhs-6-diffusion-pump', 'vhs-250-diffusion-pump'}
+    large-diffusion-pumps
+      Number of elements = 5: {'vhs-400-diffusion-pump', 'hs-20-diffusion-pump', 'nhs-35-diffusion-pump', 'hs-16-diffusion-pump', 'hs-32-diffusion-pump'}
+    diffusion-pump-accessories
+      Number of elements = 3: {'fluids-for-diffusion-pumps', 'heaters-heater-components-for-diffusion-pumps', 'centering-rings-thermal-switches-for-diffusion-pumps'}
+  vacuum-leak-detection-software
+    Number of elements = 3: {'a-plus-software', 'leak-test-data-wizard-software-for-leak-detectors', 'vacuum-link-app'}
+liquid-chromatography
+  hplc-components-accessories
+    hplc-injectors
+      Number of elements = 13: {'1290-infinity-ii-multisampler', '1260-infinity-ii-vialsampler', '1260-infinity-ii-manual-injector', '1260-infinity-ii-bio-inert-multisampler', '1260-infinity-ii-multisampler', '1290-infinity-ii-vialsampler', '1290-infinity-ii-bio-multisampler', '1260-infinity-ii-online-sample-manager', 'upgrades-accessories-for-infinity-ii-samplers', '1290-infinity-ii-preparative-open-bed-sampler-collector', '1260-infinity-ii-sfc-multisampler', '1260-infinity-ii-preparative-manual-injector', '1260-infinity-ii-preparative-autosampler'}
+    hplc-accessories
+      Number of elements = 7: {'1260-infinity-ii-degasser', '1290-infinity-flexible-cube', '1260-infinity-ii-sfc-control-module', '1290-infinity-ii-ms-flow-modulator', '1260-infinity-high-performance-degasser', '1290-infinity-ii-valve-drive', 'infinitylab-quick-change-valves'}
+    hplc-application-kits
+      Number of elements = 1: {'2d-lc-prota-sec-kit'}
+    hplc-detectors
+      Number of elements = 15: {'1260-infinity-ii-multiple-wavelength-detector', '1260-infinity-ii-diode-array-detector-hs', '1290-infinity-ii-high-dynamic-range-dad-system', '1260-infinity-ii-high-temperature-evaporative-light-scattering-detector', '1290-infinity-ii-diode-array-detector', '1260-infinity-ii-fluorescence-detector-spectra', '1260-infinity-ii-variable-wavelength-detector', '1260-infinity-ii-diode-array-detector-wr', '1290-infinity-ii-diode-array-detector-fs', '1290-infinity-ii-evaporative-light-scattering-detector', '1260-infinity-ii-fluorescence-detector', '1290-infinity-ii-variable-wavelength-detector', '1260-infinity-ii-refractive-index-detector', '1260-infinity-ii-evaporative-light-scattering-detector', '1290-infinity-ii-refractive-index-detector'}
+    hplc-fraction-collectors
+      Number of elements = 5: {'1290-infinity-ii-preparative-open-bed-fraction-collector', '1260-infinity-ii-analytical-scale-fraction-collector', '1260-infinity-ii-preparative-valve-based-fraction-collector', '1260-infinity-ii-bio-inert-fraction-collector', '1260-infinity-ii-preparative-scale-fraction-collector'}
+    hplc-pumps
+      Number of elements = 13: {'1260-infinity-ii-bio-flexible-pump', '1260-infinity-ii-bio-inert-pump', '1290-infinity-ii-bio-high-speed-pump', '1290-infinity-ii-flexible-pump', '1260-infinity-ii-sfc-binary-pump', '1260-infinity-ii-preparative-binary-pump', '1260-infinity-ii-flexible-pump', '1290-infinity-ii-high-speed-pump', '1260-infinity-ii-quaternary-pump', '1260-infinity-ii-binary-pump', '1290-infinity-ii-preparative-binary-pump', '1290-infinity-ii-bio-flexible-pump', '1260-infinity-ii-isocratic-pump'}
+    hplc-column-compartments
+      Number of elements = 4: {'1260-infinity-ii-preparative-column-organizer', '1290-infinity-ii-multicolumn-thermostat', '1290-infinity-ii-preparative-column-compartment', '1260-infinity-ii-multicolumn-thermostat'}
+    hplc-portable-controllers
+      Number of elements = 2: {'1200-infinity-instant-pilot', 'infinitylab-companion'}
+  hplc-supplies-accessories
+    supplies-maintenance-kits-for-hplc
+      Number of elements = 5: {'accessory-kits-for-hplc', 'capillary-kits-for-hplc', 'upgrade-kits-for-hplc', 'maintenance-kits-for-hplc', 'tubing-kits-for-hplc'}
+    supplies-for-non-agilent-lc-systems
+      Number of elements = 15: {'pump-supplies-for-waters-lc-systems', 'detector-lamps-for-shimadzu-lc-systems-for-hplc', 'detector-lamps-for-waters-lc-systems-for-hplc', 'capillaries-for-thermo-dionex-lc-systems', 'fittings-for-shimadzu-lc-systems', 'capillaries-for-waters-lc-systems', 'valve-replacement-parts-for-shimadzu-lc-systems', 'fittings-for-thermo-dionex-lc-systems', 'pump-supplies-for-shimadzu-lc-systems', 'detector-lamps-for-thermo-dionex-lc-systems-for-hplc', 'in-line-filters-for-thermo-dionex-lc-systems', 'pump-supplies-for-thermo-dionex-lc-systems', 'valve-replacement-parts-for-thermo-dionex-lc-systems', 'capillaries-for-shimadzu-lc-systems', 'in-line-filters-for-shimadzu-lc-systems'}
+    autosampler-fraction-collector-supplies-for-hplc
+      Number of elements = 8: {'metering-device-supplies-for-hplc', 'needle-wash-supplies-for-hplc', 'injection-valve-supplies-for-hplc', 'sampler-maintenance-kits-for-hplc', 'sample-trays-for-hplc', 'sample-loops-for-hplc', 'needle-needle-seats-for-hplc', 'fraction-collector-supplies-for-hplc'}
+    valves-manual-injectors-for-hplc
+      Number of elements = 5: {'autosampler-valve-supplies-for-hplc', 'special-function-valves-for-hplc', 'pump-valves-supplies-for-hplc', 'manual-injection-valves-supplies-for-hplc', 'column-selection-valves-supplies-for-hplc'}
+    sample-containment-for-chromatography
+      Number of elements = 2: {'test-tubes', 'well-plates'}
+    capillary-fittings-connectors-for-hplc
+      Number of elements = 6: {'tubing-for-hplc', 'quick-connect-quick-turn-fittings-for-hplc', 'capillaries-for-hplc', 'fittings-for-hplc', 'capillary-tubing-kits-for-hplc', 'adapters-unions-for-hplc'}
+    pump-degasser-supplies-for-hplc
+      Number of elements = 7: {'pump-maintenance-kits-for-hplc', 'filters-mixers-for-hplc', 'seal-wash-supplies-for-hplc', 'degasser-supplies-for-hplc', 'pump-valves-for-hplc', 'infinitylab-quick-change-inline-filter', 'pistons-seals-for-hplc'}
+    lamps-detector-supplies-for-hplc
+      Number of elements = 9: {'lamps-for-hplc', 'flow-cells-for-hplc', 'detector-kits-for-hplc', 'elsd-supplies-for-hplc', 'fld-supplies-for-hplc', 'dad-mwd-supplies-for-hplc', 'lc-msd-supplies-for-hplc', 'rid-supplies-for-hplc', 'vwd-supplies-for-hplc'}
+    tools-for-hplc
+      Number of elements = 1: {'tools-for-hplc'}
+    solvent-management-for-hplc
+      Number of elements = 5: {'stay-safe-caps-accessories-for-hplc', 'solvent-inlet-tubing-filters-for-hplc', 'solvent-bottles-waste-cans-for-hplc', 'bottle-head-assemblies-for-hplc', 'solvent-filtration-filter-membranes-for-hplc'}
+    thermostatted-column-compartment-supplies-for-hplc
+      Number of elements = 3: {'heat-exchanger-for-hplc', 'column-selection-valve-capillary-kits-for-hplc', 'column-thermostat-accessories-for-hplc'}
+    laboratory-instrument-benches
+      Number of elements = 3: {'flex-bench-for-hplc', 'flex-bench-ms-for-hplc', 'benchtop-for-hplc'}
+  hplc-ce-software
+    application-specific-software
+      Number of elements = 8: {'buffer-advisor-software', 'automated-purification-software', 'gpc-sec-software', 'cirrus-gpc-software', 'method-scouting-wizard', '2d-lc-software', 'gpc-sec-software-for-openlab-cds', 'bio-sec-software'}
+    instrument-control-software
+      Number of elements = 6: {'instrument-control-framework-for-lc', 'intelligent-system-emulation-technology', 'lc-ce-firmware', 'lab-advisor-software', 'agilent-drivers-for-waters-empower-chromatography-data-system', 'lc-ce-instrument-drivers'}
+  hplc-systems
+    preparative-hplc-systems
+      Number of elements = 15: {'1260-infinity-ii-manual-preparative-lc-system', '1260-infinity-ii-preparative-lc-system', '1260-infinity-ii-bio-inert-analytical-scale-lc-purification-system', '1220-infinity-ii-analytical-scale-lc-purification-system', '1290-infinity-ii-autoscale-preparative-lc-msd-system', '1290-infinity-ii-analytical-scale-lc-purification-system', '1290-infinity-ii-preparative-lc-msd-system', '1260-infinity-ii-analytical-scale-lc-purification-system', '1260-infinity-ii-prime-bio-analytical-scale-lc-purification-system', '1290-infinity-ii-autoscale-preparative-lc-system', '1290-infinity-ii-bio-analytical-scale-lc-purification-system', '1260-infinity-ii-prime-analytical-scale-lc-purification-system', '1260-infinity-ii-preparative-lc-msd-system', 'load-lock-columns', '1290-infinity-ii-preparative-lc-system'}
+    analytical-hplc-systems
+      Number of elements = 4: {'1290-infinity-ii-lc-system', '1260-infinity-ii-prime-lc-system', '1260-infinity-ii-lc-system', '1220-infinity-ii-lc-system'}
+    application-specific-hplc-systems
+      Number of elements = 21: {'1260-infinity-ii-multi-detector-gpc-sec-system', '1260-infinity-ii-multi-method-system', '1290-infinity-ii-multi-method-system', '1290-infinity-ii-bio-lc-system', '1260-infinity-ii-method-development-system', '1260-infinity-ii-amino-acid-analysis-system', '1290-infinity-ii-high-throughput-system', '1260-infinity-ii-sfc-uhplc-hybrid-system', '1260-infinity-ii-bio-sec-multi-detector-system', '1290-infinity-ii-gpc-sec-system', '1290-infinity-ii-method-transfer-system', '1290-infinity-ii-method-development-system', '1260-infinity-ii-prime-online-lc-system', '1260-infinity-ii-prime-bio-lc-system', '1290-infinity-ii-hdr-dad-impurity-analyzer-system', '1290-infinity-ii-2d-lc-system', '1260-infinity-ii-gpc-sec-system', '1260-infinity-ii-high-temperature-gpc-system', '1290-infinity-ii-online-spe-system', '1260-infinity-ii-sfc-system', '1260-infinity-ii-bio-inert-lc-system'}
+gc-columns
+  application-specific-gc-columns
+    Number of elements = 56: {'db-select-624-ui-467-columns', 'cp-sil-88-columns', 'lowox-columns', 'cp-select-cb-for-mtbe-columns', 'cp-volamine-columns', 'db-clp-1-db-clp-2-columns', 'cp-ffap-cb-columns', 'select-silanes-columns', 'db-tph-columns', 'db-vrx-columns', 'biodiesel-columns', 'cp-tap-cb-columns', 'hp-88-columns', 'db-eupah-columns', 'cp-sil-88-for-fame-columns', 'cp-simdist-columns', 'db-fatwax-ultra-inert-columns', 'vf-17ms-for-pah-columns', 'cp-wax-51-for-amines-columns', 'db-624-columns', 'db-alc1-db-alc2-columns', 'vf-1701-pesticide-columns', 'gs-oxyplot-columns', 'db-1701p-columns', 'db-5ms-evdx-columns', 'hp-pona-columns', 'db-petro-columns', 'db-mtbe-columns', 'cp-select-624-cb-columns', 'cp-sil-5-cb-for-formaldehyde-columns', 'db-fastfame-columns', 'db-608-columns', 'select-pah-columns', 'hp-rfg-columns', 'db-sulfur-scd-columns', 'cam-columns', 'db-dioxin-columns', 'select-biodiesel-columns', 'cp-sil-8-cb-for-amines-columns', 'vf-da-columns', 'rapid-ms-columns', 'select-mineral-oil-columns', 'cp-sil-pona-for-astm-d-5134-columns', 'cp-wax-57-cb-for-glycols-alcohols-columns', 'select-permanent-gasses-columns', 'select-low-sulfur-columns', 'cp-tcep-for-alcohols-in-gasoline-columns', 'db-ui-8270d-columns', 'cp-select-624-hexanes-columns', 'vf-5-pesticide-columns', 'poraplot-amines-columns', 'db-2887-columns', 'select-al2o3-mapd-columns', 'cp-wax-57-cb-columns', 'select-fame-columns', 'db-bac1-ultra-inert-db-bac2-ultra-inert-columns'}
+  ultra-inert-gc-columns
+    Number of elements = 7: {'db-35ms-ultra-inert-columns', 'db-1ms-ultra-inert-columns', 'db-624-ultra-inert-columns', 'db-5ms-ultra-inert-columns', 'hp-1ms-ultra-inert-columns', 'hp-5ms-ultra-inert-columns', 'db-wax-ultra-inert-columns'}
+  low-bleed-gc-ms-columns
+    Number of elements = 19: {'vf-35ms-columns', 'vf-1701ms-columns', 'vf-1ms-columns', 'vf-200ms-columns', 'vf-5ms-columns', 'db-xlb-columns', 'db-35ms-columns', 'db-17ms-columns', 'vf-waxms-columns', 'db-1ms-columns', 'db-5ms-columns', 'hp-5ms-columns', 'vf-xms-columns', 'vf-23ms-columns', 'hp-1ms-columns', 'db-225ms-columns', 'vf-1301ms-columns', 'vf-17ms-columns', 'vf-624ms-columns'}
+  plot-gc-columns
+    Number of elements = 24: {'gs-gaspro-columns', 'cp-molsieve-5a-columns', 'poraplot-s-columns', 'carbobond-columns', 'gs-q-columns', 'cp-al2o3-na2so4-columns', 'hp-plot-u-columns', 'poraplot-q-ht-columns', 'cp-al2o3-kcl-columns', 'poraplot-q-columns', 'porabond-u-columns', 'gs-carbonplot-columns', 'hp-plot-molesieve-columns', 'carboplot-p7-columns', 'hp-plot-al2o3-kcl-columns', 'cp-silica-plot-columns', 'hp-plot-al2o3-s-columns', 'porabond-q-columns', 'poraplot-u-columns', 'gs-alumina-kcl-columns', 'gs-alumina-columns', 'hp-plot-al2o3-m-columns', 'hp-plot-q-columns', 'plot-pt-columns'}
+  standard-polysiloxane-gc-columns
+    Number of elements = 19: {'hp-35-columns', 'high-efficiency-columns', 'ultra-2-columns', 'hp-1-columns', 'cp-sil-8-cb-columns', 'db-200-columns', 'db-1701-columns', 'db-1301-columns', 'db-23-columns', 'hp-5-columns', 'db-5-columns', 'db-1-columns', 'db-225-columns', 'db-17-columns', 'db-35-columns', 'cp-sil-5-cb-columns', 'cp-sil-13-cb-columns', 'db-210-columns', 'ultra-1-columns'}
+  high-temperature-gc-columns
+    Number of elements = 6: {'vf-5ht-ultimetal-columns', 'vf-5ht-columns', 'db-5ht-columns', 'db-ht-simulated-distillation-columns', 'db-1ht-columns', 'db-17ht-columns'}
+  intuvo-gc-columns
+    Number of elements = 8: {'intuvo-premium-polysiloxane-columns', 'intuvo-ultra-inert-columns', 'intuvo-plot-columns', 'intuvo-petroleum-specialty-columns', 'intuvo-low-bleed-columns', 'intuvo-forensic-specialty-columns', 'intuvo-enviromental-specialty-columns', 'intuvo-polyethylene-glycol-wax-columns'}
+  guard-columns-capillary-tubing
+    Number of elements = 5: {'ez-guard-columns', 'duraguard-columns', 'ultimate-plus-deactivated-fused-silica', 'tubing-retention-gaps', 'ultimetal-plus-stainless-steel-capillary-tubing'}
+  wax-gc-columns
+    Number of elements = 7: {'db-ffap-columns', 'hp-ffap-columns', 'hp-innowax-columns', 'cp-wax-52-cb-columns', 'db-heavywax-columns', 'db-wax-columns', 'db-waxetr-columns'}
+  metal-gc-columns
+    Number of elements = 2: {'cp-simdist-ultimetal-columns', 'db-prosteel-columns'}
+  ltm-gc-columns
+    Number of elements = 2: {'low-thermal-mass-ltm-ii-columns', '5975t-ltm-column-module'}
+  packed-columns
+    Number of elements = 1: {'packed-gc-columns'}
+  chiral-gc-columns
+    Number of elements = 6: {'hp-chiral-b-columns', 'cyclosil-b-columns', 'cyclodex-b-columns', 'cp-cyclodextrin-b-2-3-6-m-19-columns', 'cp-chirasil-dex-cb-columns', 'cp-chirasil-val-columns'}
+  gc-columns-with-smart-key
+    Number of elements = 1: {'8890-gc-columns-with-smart-key'}
+clinical-flow-cytometry
+  reagents-for-clinical-flow-cytometry
+    clinical-single-color-antibodies
+      Number of elements = 124: {'cd41-981604', 'cd2-981526', 'cd3-981595', 'terminal-deoxynucleotidyl-transferase-981961', 'cd45ra-927156', 'igg-992409', 'cd41-992390', 'cd10-787284', 'cd19-787306', 'myeloperoxidase-981959', 'cd2-787316', 'cd15-787302', 'ki-67-981953', 'cd79b-992397', 'cd57-981617', 'cd71-981873', 'cd45-787388', 'cd62p-787398', 'cd64-981619', 'cd34-class-iii-787365', 'cd1a-981525', 'lysozyme-ec-3-2-1-17-992417', 'cd30-992389', 'kappa-light-chain-981923', 'plasma-cell-992424', 'cd10-981505', 'cd34-class-iii-981599', 'epithelial-antigen-992403', 'cd103-992384', 'cd23-787329', 'cd42b-981605', 'cd24-981539', 'cd61-981618', 'cd13-787297', 'cd79a-927407', 'lambda-light-chain-981957', 'cd3-787355', 'b-cell-981503', 'cd138-926672', 'cd38-787374', 'cd68-992395', 'cd19-981524', 'kappa-light-chain-982008', 'cd235a-981538', 'iga-981915', 'cd45ra-981613', 'epithelial-antigen-981911', 'igm-981920', 'cd38-981600', 'cd22-981536', 'cd11b-787291', 'cd11c-981516', 'cd4-787381', 'cd79b-981875', 'cd8-981876', 'cd79-cy-981874', 'cd66abce-981622', 'hla-abc-981912', 'cd7-787403', 'cd14-787299', 'cd69-927405', 'cd57-992393', 'cd13-981517', 'cd138-981518', 'cd16-787303', 'cd25-981544', 'cd11b-981515', 'b-cell-992382', 'cd68-981871', 'cd30-981597', 'cd20-787318', 'cd24-992387', 'cd61-787399', 'lambda-light-chain-982009', 'cd64-787401', 'cd7-981872', 'cd22-926675', 'cd45ro-981608', 'cd1a-787314', 'cd43-981606', 'cd45ro-927157', 'zap-70-787421', 'cd103-981506', 'cd11c-787293', 'cd36-787368', 'hla-dr-787425', 'hla-abc-992404', 'cd33-787363', 'igd-981916', 'cd33-981598', 'cd117-981514', 'cd79-cy-992396', 'cd42b-992391', 'cd25-787330', 'cd56-981616', 'cd127-926671', 'igm-992410', 'bcl2-981504', 'cd23-981537', 'cd117-787288', 'igd-992408', 'myeloperoxidase-787422', 'cd20-981535', 'cd15-981521', 'cd4-981601', 'cd8-787412', 'hla-dp-dq-dr-992405', 'hla-dr-981914', 'iga-992406', 'cd235a-992386', 'lysozyme-ec-3-2-1-17-981958', 'cd43-992392', 'cd71-927406', 'cd5-927158', 'igg-981919', 'cd14-981520', 'cd16-981522', 'terminal-deoxynucleotidyl-transferase-992443', 'cd56-787396', 'cd45-981607', 'cd5-981614', 'hla-dp-dq-dr-981913', 'cd66abce-992394', 'plasma-cell-981960'}
+    clinical-dual-color-antibodies
+      Number of elements = 13: {'cd2-cd19-982017', 'kappa-light-chain-cd19-992411', 'cd5-cd19-982015', 'cd3-cd8-982014', 'cd10-cd19-982016', 'cd3-cd4-982013', 'cd3-cd19-981596', 'hla-dp-dq-dr-cd3-982012', 'cd5-cd20-982011', 'lambda-light-chain-cd19-992416', 'cd4-cd8-981603', 'kappa-light-chain-lambda-light-chain-982010', 'cd45-cd14-981611'}
+    clinical-buffers-reagents
+      Number of elements = 1: {'lysing-fixation-permeabilization-reagents-1320870'}
+    clinical-triple-color-antibodies
+      Number of elements = 21: {'cd33-cd34-cd117-982037', 'cd19-cd34-cd22-982039', 'cd19-lambda-light-chain-kappa-light-chain-992385', 'cd3-cd19-cd45-982040', 'cd71-cd235a-cd45-982032', 'mpo-cd79acy-cd3-982026', 'cd41-cd34-cd61-982038', 'b-cell-cd23-cd19-982035', 'cd38-cd56-cd45-982030', 'cd13-hla-dr-cd117-982036', 'cd2-cd34-cd5-982025', 'kappa-light-chain-lambda-light-chain-cd19-992412', 'cd16-cd56-cd3-982021', 'cd38-cd56-cd19-982031', 'cd20-cd5-cd19-982022', 'tdt-cd22-cd3-982027', 'cd2-cd7-cd3-982034', 'plasma-cell-lambda-light-chain-kappa-light-chain-982028', 'cd8-cd4-cd3-982020', 'cd5-cd10-cd19-982023', 'cd103-cd11c-cd19-982024'}
+    clinical-multiplex-detection-kits
+      Number of elements = 1: {'cytokine-detection-926823'}
+    clinical-multi-color-kits
+      Number of elements = 4: {'quadritest-4-color-immunophenotyping-kit-1320894', 'triotest-hiv-reagent-kit-925182', 'tbnk-kit-6-color-immunophenotyping-kit-925181', 'hla-b27-kit-925144'}
+    clinical-isotype-controls
+      Number of elements = 12: {'mouse-igg1-rabbit-f-ab-2-rabbit-f-ab-2-992418', 'mouse-igg1-1322223', 'rabbit-f-ab-2-rabbit-f-ab-2-mouse-igg1-1323879', 'rabbit-f-ab-2-rabbit-f-ab-2-992442', 'mouse-igg1-mouse-igg1-mouse-igg1-982044', 'mouse-igg2a-981984', 'mouse-igg1-mouse-igg1-982041', 'rabbit-f-ab-2-992437', 'mouse-igg1-1322235', 'mouse-igg2a-992419', 'mouse-igg1-mouse-igg2a-982042', 'rabbit-f-ab-2-981982'}
+    clinical-secondary-antibodies
+      Number of elements = 2: {'goat-anti-mouse-igg-981968', 'rabbit-anti-mouse-igg-981967'}
+  clinical-flow-cytometers
+    instrument-consumables-accessories-for-clinical-systems
+      Number of elements = 1: {'fluidics-system-maintenance-kits-for-flow-cytometry-1320861'}
+    clinical-flow-cytometer-systems
+      Number of elements = 3: {'novocyte-quanteon-flow-cytometer-systems-4-lasers-984679', 'novocyte-advanteon-flow-cytometer-systems-1-3-lasers-1053684', 'novocyte-flow-cytometer-systems-1-3-lasers-984676'}
+  clinical-flow-cytometry-software
+    Number of elements = 1: {'clincal-novoexpress-software-1605060'}
+pharmdx
+  pd-l1-ihc-28-8-pharmdx
+    Number of elements = 8: {'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-94445', 'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-113140', 'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-153940', 'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-1501391', 'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-76917', 'pd-l1-ihc-28-8-pharmdx-98884', 'pd-l1-ihc-28-8-pharmdx-for-autostainer-link-48-108819', 'pd-l1-ihc-28-8-pharmdx-137270'}
+  herceptest-kits
+    Number of elements = 6: {'herceptest-for-automated-link-platforms-152563', 'herceptest-mab-pharmdx-dako-omnis-1324550', 'herceptest-for-automated-link-platforms-152565', 'herceptest-76911', 'herceptest-152199', 'herceptest-for-automated-link-platforms-76913'}
+  her2-iqfish-pharmdx
+    Number of elements = 2: {'her2-iqfish-pharmdx-152200', 'her2-iqfish-pharmdx-76900'}
+  pd-l1-ihc-22c3-pharmdx
+    Number of elements = 13: {'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-131256', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-99707', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-1055970', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-929626', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-711205', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-94448', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-1760224', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-1604255', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-381204', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-2008244', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-94449', 'pd-l1-ihc-22c3-pharmdx-for-autostainer-link-48-351185', 'pd-l1-control-slides-338279'}
+  ki-67-ihc-mib-1-pharmdx-dako-omnis
+    Number of elements = 1: {'ki-67-ihc-mib-1-pharmdx-dako-omnis-1963684'}
+molecular-spectroscopy
+  uv-vis-uv-vis-nir-spectroscopy
+    uv-vis-uv-vis-nir-accessories
+      Number of elements = 34: {'cary-60-solid-sample-holder', 'uv-vis-nir-solid-sample-holders', 'uv-vis-nir-polarizer-depolarizer-accessories', 'rapid-mix-accessory-rx2000', 'uv-vis-nir-external-diffuse-reflectance-accessories', 'uv-vis-nir-rear-beam-attenuator-rba', 'double-aperture-photometric-accuracy-kit-automated', 'uv-vis-nir-internal-dra-cuvette-holder-10-mm-pathlength', 'uv-vis-nir-brewster-angle-holder', 'uv-vis-internal-diffuse-reflectance-accessories', 'uv-vis-nir-sample-transport-accessory', 'uv-vis-nir-variable-angle-specular-reflectance-accessory', 'uv-vis-nir-solids-autosampler', 'cary-60-fiber-optic-coupler', 'uv-vis-nir-fixed-angle-specular-reflectance-accessories-slide-mounted', 'uv-vis-nir-external-dra-cuvette-style-center-mount-holder', 'peltier-1x1-cell-holder-accessory', 'uv-vis-nir-powder-cell-kit', 'uv-vis-nir-praying-mantis-diffuse-reflectance-accessory', 'uv-vis-nir-liquid-cell-holders', 'double-aperture-photometric-accuracy-kit', 'thermostatted-multicell-holder-accessory', 'uv-vis-nir-film-holder-accessories', 'extended-sample-compartment-cary-4000-5000-6000i-7000', 'cary-uv-vis-sunglasses-holder-accessory', 'double-aperture-attachment', 'uv-vis-nir-external-dra-jaw-style-variable-angle-center-mount-holder', 'uv-vis-nir-fixed-angle-specular-reflectance-accessory-floor-mounted', 'cary-sipper-flow-cell-pump', 'cary-60-test-tube-holder-accessory', 'uv-vis-nir-external-dra-variable-angle-center-mount-clip-style-holder', 'cary-universal-measurement-accessory-uma', 'thermostatted-accessories-kit-cary-4000-5000-6000i-7000', 'uv-vis-nir-vw-absolute-specular-reflectance-accessory'}
+    uv-vis-uv-vis-nir-software
+      Number of elements = 3: {'uv-vis-chemstation-software', 'cary-uv-workstation-software', 'cary-winuv-software'}
+    uv-vis-uv-vis-nir-systems
+      Number of elements = 6: {'cary-6000i-uv-vis-nir', 'cary-4000-uv-vis', 'cary-3500-uv-vis-spectrophotometer', 'cary-60-uv-vis-spectrophotometer', 'cary-7000-universal-measurement-spectrophotometer-ums', 'cary-5000-uv-vis-nir'}
+    uv-vis-uv-vis-nir-supplies
+      Number of elements = 8: {'cell-holders-bases-accessories-for-uv-vis-uv-vis-nir', 'tubing-for-cary-uv-accessories', 'accessory-supplies-for-8453-8454-uv-systems', 'fiber-optic-probes-tips-couplers-for-cary-uv-systems', 'accessory-supplies-for-cary-uv-systems', 'source-lamps-for-uv-vis-uv-vis-nir', 'tubing-fittings-for-8453-8454-uv-systems', 'filters-for-uv-vis-uv-vis-nir'}
+    uv-vis-uv-vis-nir-cuvettes-flow-cells
+      Number of elements = 10: {'cell-spacers-inserts-for-uv-vis-uv-vis-nir', 'cylindrical-cells-for-uv-vis-uv-vis-nir-systems', 'flow-through-cells-for-uv-vis-uv-vis-nir-systems', 'ultra-microcells-for-uv-vis-uv-vis-nir-systems', 'semi-microcells-for-uv-vis-uv-vis-nir-systems', 'disposable-polystyrene-cells-for-uv-vis-uv-vis-nir-systems', 'cell-cleaning-supplies-for-uv-vis-uv-vis-nir', 'magnetic-stirring-bars-for-uv-vis-uv-vis-nir', 'sub-microcells-for-uv-vis-uv-vis-nir-systems', 'macrocells-for-uv-vis-uv-vis-nir-systems'}
+  ftir-spectroscopy
+    ftir-software
+      Number of elements = 4: {'microlab-ftir-software', 'microlab-expert', 'microlab-mobile-software', 'ftir-libraries-for-4100-4200'}
+    ftir-compact-portable-systems
+      Number of elements = 5: {'5500-series-compact-ftir', '4100-exoscan-series-ftir-handheld', '4500-series-portable-ftir', '4300-handheld-ftir', '4200-flexscan-series-ftir-handheld'}
+    ftir-accessories
+      Number of elements = 2: {'4300-handheld-ftir-sampling-accessories', 'cary-630-ftir-sampling-accessories'}
+    ftir-analyzer-packages
+      Number of elements = 2: {'ftir-forensics-analyzer', '4500-polymer-id-package'}
+    ftir-supplies
+      Number of elements = 5: {'ftir-oil-analyzer-supplies-standard-kits', 'ftir-system-source-lamps', 'ftir-instrument-imaging-system-supplies', 'batteries-power-supplies-for-hand-held-ftir-systems', 'sample-compartment-windows-for-cary-ftir-systems'}
+    ftir-microscopes-imaging-systems
+      Number of elements = 1: {'cary-610-620-ftir-microscopes'}
+    ftir-benchtop-systems
+      Number of elements = 1: {'cary-630-ftir-spectrometer'}
+  fluorescence-spectroscopy
+    fluorescence-accessories
+      Number of elements = 12: {'cary-eclipse-microplate-reader', 'cary-eclipse-thermostatted-single-cell-holders', 'cary-eclipse-fiber-optics', 'high-throughput-fluorescence-based-mab-aggregation-analysis-solution', 'cary-eclipse-accessory-base-plate', 'rapid-mix-accessory-sfa-20', 'pcb-1500-circulating-water-bath', 'cary-eclipse-solid-sample-holder', 'cary-eclipse-thermostatted-multicell-holders', 'cary-eclipse-temperature-probes', 'cary-eclipse-automated-polarizer', 'cary-eclipse-manual-polarizer'}
+    fluorescence-microplates
+      Number of elements = 1: {'fluorescence-96-384-well-microplates'}
+    fluorescence-systems
+      Number of elements = 1: {'cary-eclipse-fluorescence-spectrophotometer'}
+    fluorescence-supplies
+      Number of elements = 3: {'fluorescence-cell-holders-bases', 'cary-fluorescence-instrument-accessory-supplies', 'fluorescence-fiber-optic-probes-tips-couplers'}
+    fluorescence-cuvettes-flow-cells
+      Number of elements = 1: {'rectangular-triangular-flow-cells-for-fluorescence-systems'}
+    fluorescence-software
+      Number of elements = 1: {'cary-eclipse-software'}
+  ldir-chemical-imaging-spectroscopy
+    ldir-software
+      Number of elements = 1: {'agilent-clarity-software'}
+    ldir-chemical-imaging-supplies
+      Number of elements = 1: {'8700-ldir-supplies'}
+    ldir-chemical-imaging-system
+      Number of elements = 1: {'ldir-chemical-imaging-system'}
+    ldir-accessories
+      Number of elements = 1: {'ldir-sample-planer'}
+  raman-spectroscopy
+    raman-pharmaceutical-analysis-systems
+      Number of elements = 3: {'rapid-raw-material-id-verification-system', 'trs100-quantitative-pharmaceutical-analysis-system', 'vaya-handheld-raman-spectrometer-for-raw-material-identification'}
+    handheld-raman-chemical-detection-systems
+      Number of elements = 1: {'resolve-handheld-raman-analyzer-for-through-barrier-chemical-identification'}
+    raman-aviation-security-systems
+      Number of elements = 2: {'cobalt-insight100-series', 'cobalt-insight200m-the-bottle-screener-for-liquid-aerosols-gels'}
+    raman-software-tools-libraries
+      Number of elements = 1: {'overview-management-server'}
+vials-sample-containment
+  crimpers-decappers
+    Number of elements = 2: {'electronic-crimpers-decappers', 'manual-crimpers-decappers'}
+  vials-caps-inserts-septa
+    Number of elements = 10: {'high-recovery-vials-inserts', '2-ml-crimp-snap-top-vials-caps', '2-ml-screw-top-vials-caps', 'storage-vials-caps', 'polypropylene-vials', 'headspace-vials-caps', 'a-line-vials', 'valuelab-vials-caps', '2-ml-crimp-top-vials-caps', 'sample-containment-accessories'}
+mutagenesis-cloning
+  cloning-vectors-kits
+    cloning-vector-kits
+      Number of elements = 10: {'pbc-phagemid-vectors-233069', 'supercos-i-vector-233067', 'pbluescript-ii-vectors-233066', 'xho-i-gigapack-iii-vector-kits-233068', 'lambda-gt11-vector-kits-233063', 'lambda-zap-vector-kits-233065', 'lambda-dash-ii-vector-kits-233059', 'lambda-zap-ii-vector-kits-233064', 'lambda-fix-ii-vector-kits-233061', 'lambda-fix-ii-gigapack-iii-xl-vector-kits-233062'}
+    packaging-excision-kits
+      Number of elements = 2: {'rapid-excision-kit-233074', 'gigapack-iii-packaging-extracts-233073'}
+    helper-phages
+      Number of elements = 2: {'exassist-helper-phage-233071', 'intereference-resistant-helper-phage-233072'}
+  competent-cells-competent-cell-supplies
+    competent-cells-for-difficult-cloning
+      Number of elements = 8: {'difficult-cloning-competent-cell-pack-233083', 'tg1-electroporation-competent-cells-233086', 'able-c-competent-cells-233080', 'able-k-competent-cells-233082', 'eletroten-blue-electroporation-competent-cells-233084', 'sure-competent-cells-233085', 'xl10-gold-ultracompetent-cells-233087', 'able-competent-cells-233081'}
+    competent-cells-for-routine-cloning
+      Number of elements = 13: {'scs110-competent-cells-233096', 'solopack-gold-competent-cells-233098', 'jm109-competent-cells-233092', 'xl1-blue-mr-mrf-competent-cells-233100', 'scsi-supercompetent-cells-233097', 'xl1-blue-competent-cells-233099', 'jm110-competent-cells-233093', '96-pack-gold-competent-cells-233089', 'ag1-competent-cells-233090', 'nm522-competent-cells-233094', 'jm101-competent-cells-233091', 'xl2-blue-mrf-ultracompetent-cells-233101', 'routine-cloning-competent-cell-pack-233095'}
+    competent-cell-supplies
+      Number of elements = 2: {'x-gal-galactopyranoside-233079', 'iptg-233078'}
+    competent-cells-for-mutagenesis
+      Number of elements = 1: {'xl-1-red-competent-cells-233088'}
+  enzymes-inhibitors-kits
+    modifying-enzymes
+      Number of elements = 3: {'proteinase-k-233108', 'single-stranded-dna-binding-protein-233111', 'dna-ligation-233104'}
+    markers-restriction-enzymes
+      Number of elements = 2: {'glogos-ii-autorad-markers-233102', 'restriction-enzymes-233103'}
+  mutagenesis-kits
+    site-directed-mutagenesis-kits
+      Number of elements = 4: {'quikchange-233116', 'quikchange-ht-protein-engineering-system-233119', 'quikchange-ii-233117', 'quikchange-lightning-233118'}
+    random-mutagenesis-kits
+      Number of elements = 1: {'genemorph-ii-233115'}
+flow-cytometry
+  triple-color-reagents
+    fitc-rpe-apc-reagent-line
+      Number of elements = 20: {'cd3-fitc-cd19-rpe-cd45-apc-76038', 'cd103-fitc-cd11c-rpe-cd19-apc-76022', 'cd16-fitc-cd56-rpe-cd3-apc-76019', 'cd13-fitc-hla-dr-antigen-rpe-cd117-apc-76034', 'cd33-fitc-cd34-rpe-cd117-apc-76035', 'cd5-fitc-cd10-rpe-cd19-apc-76021', 'cd71-fitc-cd235a-rpe-cd45-apc-76031', 'cd38-fitc-cd56-rpe-cd19-apc-76030', 'cd19-fitc-lambda-light-chains-rpe-kappa-light-chains-apc-76026', 'cd38-fitc-cd56-rpe-cd45-apc-76029', 'b-cell-(fmc7)-fitc-cd23-rpe-cd19-apc-76033', 'cd19-fitc-cd34-rpe-cd22-apc-76037', 'cd20-fitc-cd5-rpe-cd19-apc-76020', 'mpo-fitc-cd79-cy-rpe-cd3-apc-76024', 'cd41-fitc-cd34-rpe-cd61-apc-76036', 'cd2-fitc-cd34-rpe-cd5-apc-76023', 'cd2-fitc-cd7-rpe-cd3-apc-76032', 'plasma-cell-fitc-lambda-light-chains-rpe-kappa-light-chains-apc-76028', 'cd8-fitc-cd4-rpe-cd3-apc-76018', 'tdt-fitc-cd22-rpe-cd3-apc-76025'}
+  flow-cytometers
+    flow-cytometer-systems
+      Number of elements = 3: {'novocyte-quanteon-flow-cytometer-systems-4-lasers-761142', 'novocyte-flow-cytometer-systems-1-3-lasers-741241', 'novocyte-flow-cytometer-systems-1-3-lasers-761141'}
+    system-upgrades-for-flow-cytometry
+      Number of elements = 1: {'quanteon-system-upgrades-741258'}
+  single-color-reagents
+    Number of elements = 30: {'cd4-apc-75921', 'kappa-light-chains-rpe-146385', 'kappa-light-chains-fitc-75915', 'cd3-rpe-145893', 'lysozyme-ec-3-2-1-17-fitc-75913', 'cd19-rpe-cy5-146040', 'cd4-fitc-145903', 'cd19-percp-cy5-5-146045', 'cd45-leucocyte-common-antigen-apc-146326', 'cd3-pb-145889', 'cd45-leucocyte-common-antigen-rpe-cy5-146324', 'igm-specific-for-mu-chains-rpe-146381', 'cd5-apc-75926', 'igm-specific-for-mu-chains-fitc-75909', 'cd19-fitc-75923', 'kappa-light-chains-apc-146387', 'cd45-leucocyte-common-antigen-rpe-146330', 'cd45-leucocyte-common-antigen-pb-146328', 'cd5-rpe-145914', 'cd5-fitc-145912', 'cd19-pb-146049', 'cd20-rpe-147594', 'cd45-leucocyte-common-antigen-fitc-75941', 'cd4-rpe-145906', 'cd57-fitc-75967', 'cd20-fitc-75927', 'cd19-rpe-146047', 'cd3-percp-145891', 'cd3-rpe-cy5-75932', 'cd19-apc-146042'}
+  triple-color-reagents-for-flow-cytometry
+    Number of elements = 1: {'triple-color-reagents'}
+  kits-accessories
+    Number of elements = 1: {'enumeration-of-stem-cells-kit'}
+  isotype-control-reagents
+    Number of elements = 1: {'triple-color-mouse-isotype-rabbit-ig-reagents'}
+gas-chromatography-mass-spectrometry-gc-ms
+  gc-ms-application-solutions
+    Number of elements = 5: {'masshunter-pesticides-pcdl-workflow-for-gc-q-tof', 'gc-ms-libraries', 'gc-ms-arsine-phosphine-analyzer', 'gc-ms-ms-pesticides-analyzer', 'pesticides-workflow-kit-for-intuvo-gc-tq'}
+  gc-ms-instruments
+    Number of elements = 4: {'7250-gc-q-tof', '5977c-gc-msd', '7010c-triple-quadrupole-gc-ms', '7000e-triple-quadrupole-gc-ms'}
+  gc-ms-supplies-accessories
+    Number of elements = 6: {'tuning-performance-standards-for-gc-ms', 'instrument-supplies-for-gc-ms', 'hydroinert-source-for-hydrogen-carrier-gas-on-gc-ms', 'vacuum-pump-supplies-for-gc-ms', 'cleaning-maintenance-supplies-for-gc-ms', 'quickprobe-gc-ms-system-consumables'}
+  gc-ms-ion-sources-inlets
+    Number of elements = 3: {'gc-ms-ion-sources', 'quickprobe-gc-ms-system', 'jetclean-self-cleaning-ion-source'}
+  gc-ms-accessories
+    Number of elements = 2: {'quiet-cover-for-gc-ms', 'idp-oil-free-vacuum-pumps'}
+cell-analysis
+  real-time-cell-metabolic-analysis
+    xf-sensor-cartridges-cell-culture-microplates
+      Number of elements = 3: {'seahorse-tools-accessories-1638218', 'seahorse-fluxpaks-740883', 'seahorse-cell-culture-plates-740876'}
+    xf-software
+      Number of elements = 13: {'seahorse-xfp-analyzer-software-740905', 'seahorse-wave-controller-software-2-6-1-740904', 'seahorse-xf-real-time-atp-rate-assay-report-generators-740902', 'seahorse-xf-glycolytic-rate-assay-report-generators-740900', 'mitoxpress-xtra-ph-xtra-data-visualization-tool-740896', 'seahorse-xf-cell-energy-phenotype-test-report-generators-740898', 'seahorse-wave-pro-software-2007523', 'agilent-seahorse-analytics-787485', 'seahorse-xf-pro-controller-software-2007524', 'seahorse-wave-controller-software-2-4-2-740903', 'seahorse-wave-desktop-software-740897', 'seahorse-xf-cell-mito-stress-test-report-generators-740899', 'seahorse-xf-mito-fuel-flex-test-report-generator-740901'}
+    xf-analyzers
+      Number of elements = 6: {'seahorse-xf-pro-analyzer-1980223', 'seahorse-xfe-controller-upgrade-740881', 'seahorse-xf-imaging-normalization-system-740882', 'seahorse-xfe96-analyzer-740879', 'seahorse-xf-hs-mini-analyzer-770502', 'seahorse-xfe24-analyzer-740878'}
+    xf-assay-kits-reagents-cell-assay-media
+      Number of elements = 13: {'seahorse-xf-substrate-oxidation-stress-test-kits-787486', 'seahorse-xf-media-supplements-calibrant-740890', 'seahorse-xf-palmitate-oxidation-stress-test-kit-fao-substrate-911628', 'seahorse-xf-real-time-atp-rate-assay-kit-740889', 'seahorse-xf-cell-mito-stress-test-kit-740885', 'seahorse-xf-hu-t-cell-activation-assay-kit-919124', 'seahorse-xf-plasma-membrane-permeabilizer-740892', 'seahorse-xf-glycolysis-stress-test-kit-740886', 'seahorse-xf-mito-fuel-flex-test-kit-740888', 'seahorse-xf-cell-energy-phenotype-test-kit-740884', 'seahorse-xf-glycolytic-rate-assay-kit-740887', 'seahorse-xf-mito-tox-assay-kit-1980775', 'seahorse-xf-t-cell-metabolic-profiling-kit-1980766'}
+    plate-reader-metabolic-assays
+      Number of elements = 3: {'mitoxpress-intra-intracellular-oxygen-assay-740893', 'ph-xtra-glycolysis-assay-740895', 'mitoxpress-xtra-oxygen-consumption-assay-740894'}
+  microplate-automation-detection
+    microplate-washers-dispensers
+      Number of elements = 4: {'biotek-el406-washer-dispenser-1623255', 'biotek-405-ts-washer-1623265', 'biotek-405-ls-washer-1623263', 'biotek-multiflo-fx-multimode-dispenser-1623257'}
+    microplate-automation-software
+      Number of elements = 1: {'biotek-liquid-handling-control-lhc-software-1623230'}
+    microplate-stackers-incubators
+      Number of elements = 4: {'biotek-biospa-accessories-integration-kits-1623219', 'biotek-biostack-accessories-integration-kits-1623220', 'biotek-biospa-8-automated-incubator-1623213', 'biotek-biostack-microplate-stacker-1623222'}
+    reader-liquid-handling-supplies
+      Number of elements = 1: {'magnet-microplates-adapters-1623246'}
+  cell-imaging-microscopy
+    cell-imaging-multimode-readers
+      Number of elements = 5: {'biotek-cytation-c10-confocal-imaging-reader-1775872', 'biotek-biospa-live-cell-analysis-system-1623215', 'biotek-cytation-7-cell-imaging-multimode-reader-1623204', 'biotek-cytation-5-cell-imaging-multimode-reader-1623202', 'biotek-cytation-1-cell-imaging-multimode-reader-1623200'}
+    automated-cell-imagers
+      Number of elements = 2: {'biotek-lionheart-lx-automated-microscope-1623190', 'biotek-lionheart-fx-automated-microscope-1623188'}
+    imager-multimode-reader-supplies
+      Number of elements = 5: {'imaging-objectives-1623159', 'imaging-led-cubes-1623155', 'imaging-objective-accessories-1623157', 'imaging-filter-cubes-1623153', 'imaging-inserts-adapters-1623161'}
+    imager-multimode-reader-peripherals
+      Number of elements = 6: {'peltier-cooling-module-1623142', 'dual-reagent-injector-module-1623139', 'imager-reader-accessories-1623132', 'co2-o2-gas-controllers-1623137', 'biotek-autoscratch-accessory-supplies-1623134', 'imaging-stage-control-joystick-1623140'}
+    cell-imaging-microscopy-software
+      Number of elements = 1: {'biotek-gen5-software-for-imaging-microscopy-1623226'}
+  real-time-cell-analysis
+    rtca-reagents-kits-accessories
+      Number of elements = 6: {'xcelligence-esight-reagents-741234', 'rtca-e-plate-temperature-control-accessory-921211', 'accuwound-96-scratch-tool-741238', 'xcelligence-cell-invasion-migration-accessory-921189', 'xcelligence-maintenance-kits-921192', 'xcelligence-immunotherapy-kits-741233'}
+    rtca-analyzers
+      Number of elements = 11: {'xcelligence-rtca-s16-pilot-scale-741231', 'xcelligence-rtca-tp-783917', 'xcelligence-rtca-cardio-cardiomyocyte-contractility-741224', 'xcelligence-rtca-sp-single-plate-741232', 'xcelligence-rtca-esight-imaging-impedance-741228', 'xcelligence-rtca-cardioecr-cardiomyocyte-contractility-electrical-activity-741225', 'xcelligence-rtca-dp-cell-invasion-migration-741226', 'xcelligence-rtca-epacer-cardiomyocyte-pacing-741227', 'xcelligence-rtca-dplus-783916', 'xcelligence-rtca-mp-multiple-plates-741230', 'xcelligence-rtca-ht-high-throughput-model-741229'}
+    rtca-microplates
+      Number of elements = 4: {'rtca-resistor-plates-for-qc-783915', 'rtca-e-plates-759976', 'rtca-cim-plates-741221', 'rtca-e-plate-inserts-741223'}
+    rtca-software
+      Number of elements = 6: {'rtca-cardio-software-921151', 'rtca-software-pro-741236', 'rtca-cardioecr-software-921152', 'rtca-epacer-software-741235', 'rtca-esight-software-921150', 'rtca-software-lite-741237'}
+special-stains
+  special-stains-kits
+    Number of elements = 34: {'periodic-acid-schiff-(pas)-stain-kit-artisan-76940', 'congo-red-stain-kit-artisan-76936', 'jones-basement-membrane-(pas-m)-stain-kit-artisan-153956', 'jones-basement-membrane-h-e-(pas-m)-stain-kit-artisan-153961', 'reticulin-no-counterstain-stain-kit-artisan-76953', 'reticulin-nuclear-fast-red-stain-kit-artisan-153971', 'grocott-s-methenamine-silver-(gms)-stain-kit-artisan-76948', 'jones-basement-membrane-(pas-m)-light-green-stain-kit-artisan-76961', 'reticulin-no-counterstain-stain-kit-artisan-153970', 'gomori-s-green-trichrome-stain-kit-artisan-76941', 'acid-fast-bacteria-(afb)-stain-kit-artisan-76937', 'alcian-blue-ph-2-5-stain-kit-artisan-76935', 'masson-s-trichrome-stain-kit-artisan-76946', 'jones-basement-membrane-h-e-(pas-m)-stain-kit-artisan-76962', 'gomori-s-green-trichrome-stain-kit-artisan-153949', 'gram-yellow-stain-kit-artisan-153950', 'jones-basement-membrane-(pas-m)-stain-kit-artisan-76951', 'elastic-stain-kit-artisan-76938', 'alcian-blue-pas-hematoxylin-stain-kit-artisan-76949', 'gomori-s-blue-trichrome-stain-kit-artisan-76942', 'reticulin-no-counterstain-stain-kit-artisan-153968', 'gram-yellow-stain-kit-artisan-76954', 'pas-green-stain-kit-artisan-76945', 'masson-s-trichrome-stain-kit-artisan-153963', 'mucicarmine-stain-kit-artisan-76943', 'orcein-stain-kit-artisan-76958', 'giemsa-stain-kit-artisan-76939', 'colloidal-iron-stain-kit-artisan-76955', 'warthin-starry-stain-kit-artisan-776842', 'grocott-s-methenamine-silver-(gms)-eosin-stain-kit-artisan-153951', 'artisan--153952', 'alcian-blue-pas-stain-kit-artisan-76944', 'iron-stain-kit-artisan-76934', 'reticulin-nuclear-fast-red-stain-kit-artisan-76950'}
+  special-staining-accessories
+    Number of elements = 5: {'clearing-solution-artisan-776830', 'alpha-amylase-artisan-776829', 'reagent-holder-14-pack-artisan-776832', 'maintenance-kit-artisan-776831', 'wash-solution-artisan-776833'}
+  automated-special-staining
+    Number of elements = 1: {'artisan-link-pro-special-staining-system-776828'}
+dissolution-testing
+  dissolution-accessories-supplies
+    dissolution-reciprocating-accessories
+      Number of elements = 3: {'reciprocating-dissolution-holders', 'reciprocating-dissolution-tubes', 'reciprocating-dissolution-screens'}
+    dissolution-paddles-baskets-sinkers
+      Number of elements = 5: {'dissolution-baskets', 'dissolution-paddles', 'dissolution-shafts', 'dissolution-sinkers', 'dissolution-racks-rinse-trays'}
+    dissolution-tools
+      Number of elements = 2: {'dissolution-verification-tools', 'dissolution-centering-rings'}
+    dissolution-sampling-uv-accessories
+      Number of elements = 7: {'dissolution-fittings-accessories', 'dissolution-tubing-tubing-kits', 'dissolution-full-flow-filters', 'dissolution-vials-tubes-trays', 'dissolution-uv-probes', 'dissolution-flow-cells', 'dissolution-sampling-cannulas'}
+    paddle-over-disk-rotating-cylinder
+      Number of elements = 4: {'suspension-cup-for-dissolution', 'transdermal-patch-holders-for-dissolution', 'rotating-cylinder-for-dissolution', 'paddle-over-disk-assemblies-for-dissolution'}
+    dissolution-vessels-evaporation-covers
+      Number of elements = 4: {'dissolution-evaporation-covers', 'dissolution-enhancer-cells', 'dissolution-vessels-carriers', 'dissolution-conversion-kits'}
+    intrinsic-dissolution
+      Number of elements = 1: {'intrinsic-dissolution-accessories'}
+  online-uv-dissolution-systems
+    Number of elements = 2: {'cary-60-multicell-uv-dissolution-system', 'cary-60-fiber-optic-uv-dissolution-system'}
+  dissolution-apparatus
+    Number of elements = 5: {'400-ds-apparatus-7', 'reciprocating-holder-apparatus-7', 'bio-dis-reciprocating-cylinder-apparatus', 'nanodis-system', '708-ds-dissolution-apparatus'}
+  dissolution-autosamplers
+    Number of elements = 1: {'850-ds-dissolution-sampling-station'}
+  dissolution-software
+    Number of elements = 2: {'dissolution-workstation-software', 'uv-dissolution-software'}
+  dissolution-qualification
+    Number of elements = 1: {'280-ds-mechanical-qualification-system'}
+certified-pre-owned-instruments
+  certified-chromatography-ms-instruments
+    Number of elements = 4: {'gc-instruments-refurbished', 'lc-instruments-refurbished', 'lc-ms-instruments-refurbished', 'gc-ms-instruments-refurbished'}
+  certified-spectroscopy-other-instruments
+    Number of elements = 6: {'bioanalyzer-instruments-refurbished', 'cell-analysis-instruments-refurbished', 'molecular-spectroscopy-instruments-refurbished', 'certified-pre-owned-ariamx-real-time-pcr-system', 'certified-pre-owned-icp-ms-icp-qqq', 'atomic-spectroscopy-instruments-refurbished'}
+software-informatics
+  chromatography-software
+    chromatography-add-on
+      Number of elements = 1: {'matchcompare-for-openlab'}
+  hplc-ce-instrument-software
+    Number of elements = 2: {'application-specific', 'instrument-control'}
+  mass-spectrometry-software
+    simplified-interfaces
+      Number of elements = 1: {'walkup-software'}
+    data-analysis
+      Number of elements = 7: {'vistaflux-software', 'massworks-software', 'mass-profiler-software', 'mass-profiler-professional-software', 'bioconfirm-software', 'quantitative-analysis', 'qualitative-analysis'}
+    data-acquisition
+      Number of elements = 2: {'acquisition-for-lc-ms', 'acquisition-for-gc-ms'}
+  analytical-software-suite
+    data-management
+      Number of elements = 3: {'openlab-ecm-xt', 'openlab-ecm', 'openlab-server'}
+    chromatography-data-systems
+      Number of elements = 3: {'openlab-ezchrom', 'openlab-chemstation', 'openlab-cds'}
+    lab-workflow-management
+      Number of elements = 1: {'sample-scheduler-for-openlab'}
+  emethods
+    Number of elements = 10: {'emethod-for-pesticide-residue-by-gc-ms-ms', 'emethod-for-potency-testing-by-lc-vwd', 'emethod-for-pesticide-residue-cannabis-by-1260-6470-lc-ms-ms', 'emethod-for-pfas-analysis-in-water-by-lc-ms-ms', 'emethod-for-pesticide-residue-by-ultivo-lc-ms-ms', 'emethod-for-residual-solvent-analysis', 'emethod-for-pesticide-residue-by-intuvo-gc-ms-ms', 'emethod-for-terpene-analysis', 'emethod-for-pesticide-residue-for-canada-by-lc-ms-ms', 'emethod-for-pesticide-residue-for-canada-by-8890-7010-gc-ms-ms'}
+  atomic-spectroscopy-software
+    Number of elements = 4: {'icp-oes', 'atomic-absorption', 'icp-ms', 'ms-aes'}
+  molecular-spectroscopy-software
+    Number of elements = 4: {'ftir', 'ldir', 'fluorescence', 'uv-vis-uv-vis-nir'}
+  genomics-software-informatics
+    gene-expression
+      Number of elements = 1: {'genespring-gx'}
+  cell-analysis-software
+    Number of elements = 2: {'xf-software-solutions', 'rtca-software-solutions'}
+  lab-workflow-management-software
+    Number of elements = 1: {'slims'}
+  automation-solutions-software
+    Number of elements = 2: {'vworks-automation-control-software-plus', 'vworks-automation-control-software'}
+sample-preparation
+  filtration
+    Number of elements = 9: {'captiva-emr', 'agilent-valuelab-syringe-filters', 'captiva-emr-lipid', 'syringe-filters', 'captiva-filter-plates-cartridges', 'captiva-filter-vials', 'mini-uniprep-syringeless-filters', 'disposable-syringes', 'captiva-nd-nd-lipids-cartridges-plates'}
+  solid-phase-extraction-spe
+    Number of elements = 54: {'bond-elut-plexa-pcx', 'bond-elut-certify', 'bond-elut-cyano-cn', 'spec-disk-spe', 'bond-elut-lipid-extraction', 'bond-elut-cyclohexyl-ch', 'spe-cartridges', 'mega-bond-elut-flash', 'versaplate', 'bond-elut-scx', 'online-spe', 'bond-elut-c18-oh', 'bond-elut-c8', 'bond-elut-sodium-sulfate-drying-cartridges', 'bond-elut-sax', 'bond-elut-cellulose', 'envirelut', 'bond-elut-nexus-bond-elut-nexus-wcx', 'top-dna-top-rna', 'bond-elut-c18', 'bond-elut-focus', 'bond-elut-c18-ewp', 'bond-elut-carbon-s-carbon-s-nh2', 'bond-elut-hlb', 'bond-elut-lms', 'bond-elut-c2', 'bond-elut-carbon-carbon-nh2', 'bond-elut-cba', 'bond-elut-psa', 'bond-elut-si', 'bond-elut-diol-2oh', 'bond-elut-mycotoxin', 'omix-tips', 'bond-elut-pba', 'bond-elut-c1', 'bond-elut-ppl', 'bond-elut-2-ml-96-square-well-plates', 'bond-elut-pfas-wax', 'bond-elut-env', 'bond-elut-dea', 'bond-elut-1-ml-96-round-well-plates', 'bond-elut-certify-ii', 'bond-elut-adaptors-caps', 'bond-elut-accucat', 'bond-elut-plexa-pax', 'bulk-sorbents-salts', 'bond-elut-nh2', 'bond-elut-alumina', 'bond-elut-pcb', 'bond-elut-prs', 'bond-elut-florisil', 'bond-elut-ph', 'bond-elut-plexa', 'empty-cartridges-empty-cartridges-with-pre-installed-frits'}
+  solid-phase-microextraction-spme
+    Number of elements = 5: {'spme-fiber-accessories', 'smart-spme-fibers', 'spme-fibers', 'spme-arrows', 'smart-spme-arrows'}
+  sample-processing-devices-accessories
+    Number of elements = 6: {'vacuum-collars-collection-plates', 'well-plate-vacuum-manifolds', 'vac-elut-sps-24-manifold', 'positive-pressure-manifold-96-processor-ppm-96', 'positive-pressure-manifold-48-processor-ppm-48', 'vacelut-cartridge-manifolds'}
+  supported-liquid-extraction-sle
+    Number of elements = 2: {'diatomaceous-earth-chem-elut', 'synthetic-chem-elut-s'}
+  quechers-kits-standards
+    Number of elements = 5: {'valuelab-quechers', 'extraction-kits', 'dispersive-kits', 'standards-for-quechers-products', 'bond-elut-emr-lipid'}
+microplate-instrumentation
+  microplate-readers
+    multimode-microplate-readers
+      Number of elements = 5: {'biotek-synergy-neo2-hybrid-multimode-reader-1623195', 'biotek-synergy-lx-multimode-reader-1623209', 'biotek-synergy-htx-multimode-reader-1623207', 'biotek-cytation-hybrid-multimode-reader-1623197', 'biotek-synergy-h1-multimode-reader-1623193'}
+    absorbance-microplate-readers
+      Number of elements = 3: {'biotek-epoch-2-microplate-spectrophotometer-1623181', 'biotek-800-ts-absorbance-reader-1623177', 'biotek-epoch-microplate-spectrophotometer-1623183'}
+    multiplate-absorbance-reader
+      Number of elements = 1: {'biotek-logphase-600-microbiology-reader-1623185'}
+  microplate-instrumentation-supplies-accessories
+    qc-reagents-test-plates
+      Number of elements = 4: {'calibration-reagents-1623174', 'luminescence-test-plate-1623172', 'fluorescence-test-plate-1623171', 'absorbance-test-plate-1623170'}
+    washer-dispenser-peripherals-supplies
+      Number of elements = 6: {'cassettes-supplies-1623244', 'bottles-tubing-1623242', 'manifolds-supplies-1623248', 'dispense-waste-systems-1623238', 'vacuum-filtration-kits-1623239', 'microplate-washer-dispenser-accessories-1623252'}
+    imager-reader-peripherals
+      Number of elements = 1: {'biotek-take3-take3-trio-microvolume-plates-1623144'}
+    imager-reader-supplies
+      Number of elements = 7: {'optical-filters-1623168', 'labware-holders-adapters-1623162', 'dichroic-mirrors-1623149', 'optical-filter-cubes-dual-pmt-1623166', 'filter-accessories-1623151', 'optical-filter-cubes-1623164', 'detector-lamps-1623147'}
+  automated-liquid-dispensing-handling
+    automated-microplate-washers-dispensers
+      Number of elements = 3: {'biotek-elx405-select-deep-well-washer-1623269', 'biotek-50-ts-washer-1623267', 'biotek-microfill-dispenser-1623260'}
+  microplate-automation
+    Number of elements = 1: {'microplate-handlers-incubators'}
+  microplate-instrumentation-control-analysis-software
+    imager-reader-control-analysis-software
+      Number of elements = 2: {'biotek-gen6-data-analysis-software-2321990', 'biotek-gen5-software-for-detection-1623227'}
+  microplate-imagers
+    Number of elements = 2: {'automated-microscopes', 'imaging-multimode-readers'}
+atomic-spectroscopy
+  atomic-absorption
+    atomic-absorption-graphite-furnace-supplies
+      Number of elements = 5: {'graphite-furnace-aas-tubes-platforms', 'tools-supplies-for-graphite-furnace-aas', 'graphite-furnace-aas-optional-accessories', 'graphite-furnace-aas-graphite-electrodes', 'graphite-furnace-aas-graphite-shrouds'}
+    supplies-for-non-agilent-aas-systems
+      Number of elements = 14: {'mixing-separation-assemblies-for-perkinelmer-fims-fias', 'cells-windows-source-lamps-for-perkinelmer-fims-fias', 'tools-supplies-for-perkinelmer-gfaas-systems', 'sample-loops-for-perkinelmer-fims-fias', 'hollow-cathode-lamps-for-perkinelmer-aas-instruments', 'burners-supplies-for-perkinelmer-aas-instruments', 'nebulizers-supplies-for-perkinelmer-aas-instruments', 'graphite-tubes-platforms-for-perkinelmer-gfaas-systems', 'autosampler-sampling-capillaries-for-perkinelmer-gfaas-systems', 'contact-cylinders-for-perkinelmer-gfaas-systems', 'o-rings-supplies-for-perkinelmer-aas-nebulizers-burner-systems', 'adapters-connectors-for-perkinelmer-fims-fias', 'burner-system-components-for-perkinelmer-aas-instruments', 'tubing-tubing-assemblies-for-perkinelmer-fims-fias'}
+    atomic-absorption-supplies-kits
+      Number of elements = 3: {'graphite-furnace-aas-operating-supplies-kits', 'other-operating-supplies-kits', 'flame-atomization-system-kits'}
+    atomic-absorption-accessories
+      Number of elements = 6: {'sips-10-20-sample-introduction-pump-system', 'act-80-atom-concentrator-tube', 'gta120-graphite-tube-atomizer', 'vga-77-vapor-generation-accessory', 'mark-7-flame-atomization-system', 'etc-60-electrothermal-temperature-controller'}
+    atomic-absorption-graphite-furnace-autosampler-supplies
+      Number of elements = 3: {'autosampler-syringes-other-supplies', 'autosampler-sampling-capillaries', 'autosampler-sample-vials-beakers-adapters'}
+    flame-atomic-absorption-instruments
+      Number of elements = 3: {'280fs-aa', '55b-aa', '240fs-aa'}
+    atomic-absorption-instrument-accessory-supplies
+      Number of elements = 5: {'sips-10-20-supplies', 'vga-77-supplies', 'mercury-analyzer-supplies', 'gas-regulators', 'act-80-supplies'}
+    graphite-furnace-atomic-absorption-instruments
+      Number of elements = 2: {'240z-aa', '280z-aa'}
+    atomic-absorption-spray-chambers
+      Number of elements = 5: {'o-rings-for-spray-chambers', 'tools-other-spray-chamber-supplies', 'impact-beads-for-atomic-absorption-spray-chambers', 'spray-chamber-components-for-atomic-absorption-instruments', 'spray-chambers-for-atomic-absorption'}
+    atomic-absorption-background-correction-lamps
+      Number of elements = 1: {'deuterium-lamps'}
+    atomic-absorption-hollow-cathode-lamps
+      Number of elements = 3: {'multi-element-hollow-cathode-lamps', 'single-element-hollow-cathode-lamps', 'high-intensity-ultraa-lamps'}
+    atomic-absorption-tubing
+      Number of elements = 2: {'atomic-absorption-tubing', 'peristaltic-pump-tubing-for-atomic-absorption'}
+    atomic-absorption-nebulizers
+      Number of elements = 3: {'capillary-tubing-nebulizer-maintenance-supplies', 'barrel-nebulizers-supplies-for-mark-v-vi-spray-chambers', 'nebulizer-components-for-mark-7-spray-chamber'}
+    flame-graphite-furnace-duo-instruments
+      Number of elements = 1: {'aa-duo'}
+    atomic-absorption-burners
+      Number of elements = 1: {'burners-supplies-for-agilent-instruments'}
+    atomic-absorption-software
+      Number of elements = 1: {'spectraa-software'}
+  inductively-coupled-plasma-optical-emission-spectroscopy-icp-oes
+    icp-oes-application-supplies-kits
+      Number of elements = 3: {'operating-supplies-kits-for-icp-oes', 'internal-standard-kits-supplies-for-icp-oes', 'application-kits-for-icp-oes'}
+    icp-oes-torches-rf-coils
+      Number of elements = 8: {'torches-for-5100-5110-5800-5900-icp-oes', 'torches-for-700-series-vista-series-liberty-icp-oes', 'demountable-torch-supplies-for-700-series-vista-series-liberty-icp-oes', 'injectors-for-fully-demountable-torches', 'rf-coils-for-icp-oes', 'outer-tube-sets-for-semi-fully-demountable-torches', 'torch-clamps-accessories-for-icp-oes', 'demountable-torch-supplies-for-5100-5110-5800-5900-icp-oes'}
+    icp-oes-instruments
+      Number of elements = 3: {'5800-icp-oes', '5110-icp-oes', '5900-icp-oes'}
+    icp-oes-instrument-accessory-supplies
+      Number of elements = 7: {'o-rings-fittings-for-icp-oes', 'argon-gas-air-inlet-filters-for-icp-oes', 'pre-optics-cone-windows-for-icp-oes', 'msis-supplies-for-icp-oes', 'chiller-supplies-for-icp-oes', 'argon-humidifier-supplies-for-icp-oes', 'vga-77-supplies-for-icp-oes'}
+    supplies-for-non-agilent-icp-oes-systems
+      Number of elements = 9: {'peristaltic-pump-tubing-for-perkinelmer-icp-oes-instruments', 'other-tubing-for-perkinelmer-icp-oes-instruments', 'nebulizers-supplies-for-perkinelmer-icp-oes-instruments', 'purge-extension-windows-for-perkinelmer-icp-oes-instruments', 'o-rings-fittings-for-perkinelmer-icp-oes-instruments', 'chiller-fluids-filters-for-perkinelmer-icp-oes-instruments', 'torches-supplies-for-perkinelmer-icp-oes-instruments', 'rf-load-coils-igniter-supplies-for-perkinelmer-icp-oes-instruments', 'spray-chambers-supplies-for-perkinelmer-icp-oes-instruments'}
+    icp-oes-spray-chambers-accessories
+      Number of elements = 4: {'inert-spray-chambers-for-icp-oes', 'spray-chamber-brackets-accessories-for-icp-oes', 'spray-chambers-for-icp-oes', 'isomist-spray-chamber-supplies-for-icp-oes'}
+    icp-oes-switching-valve-supplies
+      Number of elements = 5: {'avs-4-supplies-for-icp-oes', 'avs-6-7-tubing-kits-for-icp-oes', 'svs-1-svs-2-supplies-for-icp-oes', 'sample-loops-for-icp-oes', 'avs-6-7-supplies-for-icp-oes'}
+    icp-oes-accessories
+      Number of elements = 4: {'advanced-valve-system-avs-6-7', 'sps-4-autosampler', 'icp-oes-ultrasonic-nebulizers', 'recirculating-chiller'}
+    icp-oes-inert-sample-introduction
+      Number of elements = 2: {'inert-sample-introduction-kits-for-icp-oes', 'inert-torches-injectors-for-icp-oes'}
+    icp-oes-nebulizers-accessories
+      Number of elements = 3: {'nebulizer-supplies-for-icp-oes', 'inert-nebulizers-for-icp-oes', 'nebulizers-for-icp-oes'}
+    icp-oes-software
+      Number of elements = 1: {'icp-expert-software'}
+    icp-oes-tubing
+      Number of elements = 3: {'tubing-kits-for-icp-oes', 'peristaltic-pump-tubing-for-icp-oes', 'other-tubing-for-icp-oes'}
+  inductively-coupled-plasma-mass-spectrometry-icp-ms
+    icp-ms-instrument-accessory-supplies
+      Number of elements = 10: {'tools-manuals-for-icp-ms', 'o-rings-seals-for-icp-ms', 'high-matrix-introduction-hmi-supplies-for-icp-ms', 'hydride-generation-supplies-for-icp-ms', 'argon-humidifier-supplies-for-icp-ms', 'fittings-connectors-for-icp-ms', 'instrument-parts-for-icp-ms', 'filters-for-icp-ms', 'gas-regulators-for-icp-ms', 'detectors-for-icp-ms'}
+    icp-ms-software
+      Number of elements = 5: {'icp-ms-plasma-chromatographic-software', 'icp-ms-intelligent-sequencing-software', 'icp-ms-masshunter-software', 'icp-go-software', 'icp-ms-control-pack'}
+    icp-ms-tubing
+      Number of elements = 4: {'drain-tubing-for-icp-ms', 'uptake-pfa-tubing-for-icp-ms', 'gas-tubing-for-icp-ms', 'peristaltic-pump-tubing-for-icp-ms'}
+    icp-ms-interface-cones-skimmer-bases
+      Number of elements = 4: {'skimmer-bases-for-icp-ms', 'sampler-cones-care-packages-for-icp-ms', 'skimmer-cones-for-icp-ms', 'interface-cone-supplies-for-icp-ms'}
+    icp-ms-torches-rf-coils
+      Number of elements = 4: {'rf-coils-for-icp-ms', 'torches-for-icp-ms', 'torch-injectors-for-icp-ms', 'torch-bonnets-shield-plates-components-for-icp-ms'}
+    supplies-for-non-agilent-icp-ms-systems
+      Number of elements = 11: {'spray-chambers-supplies-for-perkinelmer-icp-ms-instruments', 'torches-supplies-for-perkinelmer-icp-ms-instruments', 'interface-cones-supplies-for-perkinelmer-icp-ms-instruments', 'nebulizers-supplies-for-perkinelmer-icp-ms-instruments', 'lenses-detectors-for-perkinelmer-icp-ms-instruments', 'rf-power-supplies-for-icp-ms', 'injectors-injector-support-adaptors-for-perkinelmer-icp-ms', 'sample-introduction-kits-for-perkinelmer-icp-ms-instruments', 'o-rings-fittings-for-perkinelmer-icp-ms-instruments', 'vacuum-chiller-fluids-oils-filters-for-perkinelmer-icp-ms', 'peristaltic-pump-tubing-for-perkinelmer-icp-ms-instruments'}
+    icp-ms-speciation-gc-icp-ms-lc-icp-ms-supplies
+      Number of elements = 3: {'liquid-chromatography-lc-interface-supplies-for-icp-ms', 'speciation-columns-for-icp-ms', 'gas-chromatography-gc-interface-supplies-for-icp-ms'}
+    icp-ms-analyzers
+      Number of elements = 2: {'iso-17294-water-analyzer', 'epa-200-8-water-analyzer'}
+    icp-ms-nebulizers
+      Number of elements = 3: {'self-aspirating-nebulizers-for-icp-ms', 'nebulizers-for-icp-ms', 'inert-nebulizers-for-icp-ms'}
+    icp-ms-inert-sample-introduction
+      Number of elements = 4: {'inert-pfa-spray-chambers-for-icp-ms', 'inert-pfa-sample-introduction-kits-for-icp-ms', 'inert-torches-injectors-for-icp-ms', 'inert-pfa-connector-tubes-for-icp-ms'}
+    icp-ms-autosampler-supplies
+      Number of elements = 3: {'integrated-autosampler-i-as-supplies-for-icp-ms', 'sps-4-well-plate-sampling-supplies-for-icp-ms', 'sps-4-update-kits-for-icp-ms'}
+    icp-ms-accessories
+      Number of elements = 10: {'icp-ms-integrated-sample-introduction-system-isis-ds', 'icp-ms-laser-ablation', 'lc-icp-ms-connection-kit', 'gc-icp-ms-interface-kit', 'icp-ms-ultra-high-matrix-introduction-uhmi-accessory', 'chromium-speciation-kit', 'integrated-autosampler-i-as', 'icp-ms-arsenic-speciation-kit', 'icp-ms-high-matrix-introduction-hmi-accessory', 'icp-ms-inert-kit'}
+    icp-ms-vacuum-cooling-system-supplies
+      Number of elements = 2: {'coolant-fluids-filters-for-icp-ms', 'vacuum-supplies-for-icp-ms'}
+    icp-ms-consumable-kits
+      Number of elements = 3: {'application-kits-for-icp-ms', 'sample-introduction-kits-for-icp-ms', 'operating-supplies-kits-for-icp-ms'}
+    icp-ms-ion-lenses-ors-octopole-reaction-system-supplies
+      Number of elements = 3: {'easy-fit-single-piece-x-lens-lens', 'ion-lenses-for-icp-ms', 'ors-octopole-reaction-system-supplies-for-icp-ms'}
+    icp-ms-switching-valve-supplies
+      Number of elements = 4: {'isis-3-integrated-sample-introduction-system-supplies-for-icp-ms-7800-7900-8900', 'isis-ds-integrated-sample-introduction-system-discrete-sampling-supplies-for-icp-ms-7500', 'isis3-easy-fit-sample-loops-for-7800-7850-7900-8900', 'isis-integrated-sample-introduction-system-supplies-for-icp-ms-7700-8800'}
+    icp-ms-instruments
+      Number of elements = 4: {'8900-triple-quadrupole-icp-ms', '7850-icp-ms', '7800-icp-ms', '7900-icp-ms'}
+    icp-ms-spray-chambers-connector-tubes
+      Number of elements = 3: {'connector-tubes-from-spray-chamber-to-torch-for-icp-ms', 'spray-chamber-end-caps-for-icp-ms', 'quartz-spray-chambers-for-icp-ms'}
+  spectroscopy-autosampler-supplies
+    supplies-for-non-agilent-autosamplers
+      Number of elements = 2: {'tubing-other-supplies-for-perkinelmer-autosamplers', 'sampling-probes-for-perkinelmer-autosamplers'}
+    autosampler-supplies
+      Number of elements = 8: {'sps-3-diluter-supplies', 'autosampler-update-tubing-kits', 'sample-tubes-vials', 'rinse-reservoirs-other-autosampler-supplies', 'standard-racks-vessels', 'autosampler-tubing', 'autosampler-probes', 'sample-racks-overlays'}
+  microwave-plasma-atomic-emission-spectroscopy-mp-aes
+    mp-aes-switching-valve-supplies
+      Number of elements = 2: {'avs-4-supplies-for-mp-aes', 'common-switching-valve-supplies-for-mp-aes'}
+    mp-aes-instrument-accessory-supplies
+      Number of elements = 5: {'msis-supplies-for-mp-aes', 'isomist-spray-chamber-supplies-for-mp-aes', 'miscellaneous-supplies-for-mp-aes', 'argon-humidifier-supplies-for-mp-aes', 'filters-for-mp-aes'}
+    mp-aes-instruments
+      Number of elements = 1: {'4210-mp-aes'}
+    mp-aes-nebulizers-supplies
+      Number of elements = 2: {'nebulizers-for-mp-aes', 'nebulizer-supplies-for-mp-aes'}
+    mp-aes-tubing
+      Number of elements = 1: {'peristaltic-pump-tubing-for-mp-aes'}
+    mp-aes-software
+      Number of elements = 1: {'mp-expert-software'}
+    mp-aes-torches-supplies
+      Number of elements = 2: {'torches-for-mp-aes', 'torch-supplies-for-mp-aes'}
+    mp-aes-spray-chambers-supplies
+      Number of elements = 2: {'spray-chamber-supplies-for-mp-aes', 'spray-chambers-for-mp-aes'}
+    mp-aes-accessories
+      Number of elements = 1: {'advanced-valve-system-avs-4'}
+    mp-aes-application-kits
+      Number of elements = 1: {'application-kits-for-mp-aes'}
+specific-proteins
+  elisa-kits-accessories
+    Number of elements = 11: {'tmb-s1-tmb-s2-chromogenic-substrates-2078605', 'rabbit-anti-goat-immunoglobulins-hrp-affinity-isolated-2717114', 'tmb-one-step-substrate-system-152177', 'cpass-sars-cov-2-neutralization-antibody-detection-kit-2412659', 'swine-anti-rabbit-immunoglobulins-hrp-affinity-isolated-2717118', 'streptavidin-hrp-conjugate-2717117', 'rabbit-anti-mouse-immunoglobulins-hrp-solid-phase-absorbed-2717115', 'goat-anti-mouse-immunoglobulins-hrp-affinity-isolated-2717109', 'goat-anti-rabbit-immunoglobulins-hrp-affinity-isolated-2717113', 'swine-anti-rabbit-immunoglobulins-hrp-solid-phase-absorbed-2717119', 'insulin-elisa-kit-130158'}
+  multipurpose-antibodies-for-clinical-chemistry
+    Number of elements = 35: {'kappa-free-light-chains-(multipurpose)-76979', 'prealbumin-(transthyretin)-(multipurpose)-76966', 'iga-specific-for-alpha-chains-(multipurpose)-76976', 'igd-specific-for-delta-chains-(multipurpose)-152109', 'igg-specific-for-gamma-chains-(multipurpose)-76991', 'alpha-1-antitrypsin-(multipurpose)-76967', 'escherichia-coli-(multipurpose)-76106', 'ige-specific-for-epsilon-chains-(multipurpose)-76978', 'c3c-complement-(multipurpose)-76972', 'gelsolin-(multipurpose)-76983', 'beta-2-microglobulin-(multipurpose)-76974', 'fibronectin-(multipurpose)-76989', 'retinol-binding-protein-(multipurpose)-152116', 'gc-globulin-(multipurpose)-76968', 'kappa-light-chains-(multipurpose)-76985', 'haptoglobin-(multipurpose)-76969', 'von-willebrand-factor-hrp-(multipurpose)-76994', 'protein-s-(multipurpose)-76990', 'transferrin-(multipurpose)-76971', 'c1q-complement-(multipurpose)-152101', 'serum-76987', 'igg-specific-for-gamma-chains-hrp-(multipurpose)-153590', 'igm-specific-for-mu-chains-(multipurpose)-152113', 'lambda-free-light-chains-(multipurpose)-76980', 'fibrinogen-(multipurpose)-76975', 'iga-specific-for-alpha-chains-hrp-(multipurpose)-76993', 'retinol-binding-protein-(multipurpose)-76970', 'lambda-light-chains-(multipurpose)-76986', 'igd-specific-for-delta-chains-(multipurpose)-152108', 'igm-specific-for-mu-chains-(multipurpose)-76992', 'albumin-(multipurpose)-76965', 'igm-specific-for-mu-chains-hrp-(multipurpose)-76104', 'iga-igg-igm-specific-for-alpha-gamma-mu-chains-(multipurpose)-76984', 'c3d-complement-(multipurpose)-76973', 'igd-specific-for-delta-chains-(multipurpose)-76977'}
+  normal-animal-sera-immunoglobulins
+    Number of elements = 5: {'mouse-serum-(normal)-77062', 'goat-serum-(normal)-77061', 'rabbit-immunoglobulin-fraction-(solid-phase-absorbed)-77063', 'rabbit-serum-(normal)-77059', 'rabbit-immunoglobulin-fraction-(normal)-77060'}
+  turbidimetry-nephelometry-test-systems
+    antibodies-for-turbidimetry-nephelometry
+      Number of elements = 11: {'haptoglobin-(turbidimetry-nephelometry)-77008', 'albumin-(turbidimetry-nephelometry)-77006', 'alpha-1-microglobulin-(turbidimetry-nephelometry)-77016', 'alpha-2-macroglobulin-(turbidimetry-nephelometry)-77000', 'kappa-light-chains-(turbidimetry-nephelometry)-77019', 'fibronectin-(turbidimetry-nephelometry)-77003', 'transferrin-(turbidimetry-nephelometry)-77005', 'lambda-light-chains-(turbidimetry-nephelometry)-77020', 'orosomucoid-(turbidimetry-nephelometry)-77004', 'fibrinogen-(turbidimetry-nephelometry)-77002', 'c-reactive-protein-(turbidimetry-nephelometry)-77007'}
+    particle-enhanced-turbidimetry-nephelometry-kits-reagents
+      Number of elements = 1: {'beta-2-microglobulin-pet-kit-77044'}
+    calibrators-controls-for-turbidimetry-nephelometry
+      Number of elements = 1: {'cystatin-c-control-set-(erm-da471-ifcc-standardized)-77035'}
+chemical-standards
+  food-beverages
+    Number of elements = 8: {'phenols-aromatic-compounds', 'amino-nitro-aromatics', 'allergens', 'dyes', 'pharmaceutical-veterinary-compounds', 'polycyclic-aromatic-hydrocarbons-pah', 'lipids', 'food-authenticity'}
+  petrochemical
+    Number of elements = 4: {'organometallic', 'metals-in-biodiesel', 'elemental-combustion-analyzer', 'matrix-oils'}
+  cannabis-testing-standards
+    Number of elements = 5: {'cannabinoids', 'cannabis-pesticides', 'cannabis-terpenes', 'cannabis-heavy-metals', 'cannabis-residual-solvents'}
+  instrument-calibration
+    Number of elements = 11: {'ion-chromatography-standards', 'icp-oes-calibration-standards', 'matrix-modifiers-for-graphite-furnace-aa', 'gc-gc-ms-calibration-standards', 'instrument-standards-for-perkin-elmer', 'uv-visible-calibration-standards', 'icp-ms-calibration-standards', 'fluorescence-calibration-standards', 'lc-lc-ms-calibration-standards', 'ft-ir-calibration-standards', 'atomic-absorption-calibration-standards'}
+  column-checkout-standards
+    Number of elements = 2: {'j-w-gc-column-test-standards', 'biodiesel-test-samples'}
+  solvents-additives
+    Number of elements = 2: {'lc-lc-ms-solvents-additives', 'ultrapure-lc-ms-solvents'}
+  environmental
+    Number of elements = 10: {'quality-control-samples', 'plasticizers', 'hydrocarbons-petrochemicals', 'polychlorinated-biphenyls', 'highly-volatile-halocarbons', 'environmental-standards-for-icp-ms', 'dioxins-furans', 'volatile-organic-compounds', 'pesticides', 'per-polyfluoroalkyl-substances-pfas'}
+  agency-methods
+    environmental-protection-agency-epa-methods
+      Number of elements = 5: {'epa-states-standards', 'environmental-protection-agency-epa-european-eu-methods', 'epa-8000-series-standards', 'epa-500-series-standards', 'epa-600-series-standards'}
+    usp-standards
+      Number of elements = 1: {'united-states-pharmacopeia-usp'}
+    astm-standards
+      Number of elements = 1: {'american-society-for-testing-materials-astm-standards'}
+    sdwa-standards
+      Number of elements = 1: {'safe-drinking-water-act-sdwa-standards'}
+  elemental-analysis
+    Number of elements = 2: {'multi-element-standards', 'single-element-standards'}
+  meters
+    Number of elements = 3: {'ion-selective-electrode-ise-supplies', 'oxidative-stability-instrument-osi-supplies', 'ion-selective-electrode-ise-meters'}
+  biopharma
+    Number of elements = 1: {'amino-acid-analysis-standards'}
+immunohistochemistry
+  antibodies-controls
+    primary-antibodies
+      Number of elements = 363: {'cd31-endothelial-cell-(dako-omnis)-76224', 'insulin-(autostainer-link-48)-76277', 'melan-a-(autostainer-link-48)-76362', 'postmeiotic-segregation-increased-2-(dako-omnis)-76195', 'cd68-(autostainer-link-48)-76340', 'calcitonin-(autostainer-link-48)-76326', 'b-cell-specific-activator-protein-(concentrate)-76670', 'actin-(muscle)-(concentrate)-76504', 'muc2-(autostainer-link-48)-76380', 'caldesmon-(autostainer-link-48)-76281', 'mast-cell-tryptase-(concentrate)-76626', 'lambda-light-chains-(autostainer-link-48)-76318', 'p40-dako-omnis-1931169', 'c4c-complement-fitc-(conjugate)-76156', 'cytokeratin-7-(dako-omnis)-76232', 'cd23-(concentrate)-76674', 'growth-hormone-(concentrate)-76141', 'chromogranin-a-(concentrate)-76546', 'actin-(smooth-muscle)-(dako-omnis)-76225', 'follicle-stimulating-hormone-(concentrate)-76559', 'progesterone-receptor-(dako-omnis)-154126', 'igm-specific-for-mu-chains-fitc-(conjugate)-153597', 'thyroid-stimulating-hormone-(concentrate)-76558', 'cd68-(autostainer-link-48)-76344', 'cd8-(concentrate)-76631', 'cd4-(autostainer-link-48)-76373', 'cytokeratin-18-(dako-omnis)-76231', 'melanosome-(dako-omnis)-76169', 'cytomegalovirus-(concentrate)-76543', 'gross-cystic-disease-fluid-protein-15-(dako-omnis)-76187', 'progesterone-receptor-(autostainer-link-48)-76292', 'thyroid-transcription-factor-(autostainer-link-48)-76283', 'e-cadherin-(concentrate)-76584', 'tyrosinase-(autostainer-link-48)-76288', 'papillomavirus-(concentrate)-154118', 'podoplanin-(concentrate)-76590', 'prostate-specific-antigen-(concentrate)-76515', 'cd43-(concentrate)-76532', 'cd5-(autostainer-link-48)-76301', 'cd7-(autostainer-link-48)-76369', 'cdx2-(dako-omnis)-76189', 'herpes-simplex-virus-type-1-(autostainer-link-48)-76329', 'renal-cell-carcinoma-marker-(autostainer-link-48)-76296', 'vimentin-(concentrate)-76509', 'mutl-protein-homolog-1-(autostainer-link-48)-76299', 'fibrinogen-fitc-(conjugate)-76154', 'pten-(concentrate)-76597', 'beta-catenin-(concentrate)-76569', 's100-(dako-omnis)-76198', 'bcl2-oncoprotein-(autostainer-link-48)-76345', 'papillomavirus-(concentrate)-76567', 'cytokeratin-20-(concentrate)-76621', 'cd43-(dako-omnis)-76247', 'thyroid-transcription-factor-(concentrate)-76581', 'beta-catenin-(dako-omnis)-76269', 'desmin-(concentrate)-76523', 'igg-specific-for-gamma-chains-fitc-(conjugate)-153586', 'cd2-(dako-omnis)-76258', 'myeloperoxidase-(concentrate)-76130', 'cytokeratin-19-(concentrate)-76554', 'cytokeratin-high-molecular-weight-(autostainer-link-48)-76278', 'terminal-deoxynucleotidyl-transferase-(concentrate)-76614', 'cytomegalovirus-(autostainer-link-48)-76390', 'igg-specific-for-gamma-chains-(autostainer-link-48)-76323', 'iga-specific-for-alpha-chains-fitc-rabbit-f(ab-)2-(conjugate)-91569', 'epithelial-antigen-(dako-omnis)-76248', 'terminal-deoxynucleotidyl-transferase-(autostainer-link-48)-76311', 'cd34-class-ii-(dako-omnis)-76244', 'villin-(autostainer-link-48)-76297', 'herpes-simplex-virus-type-1-(dako-omnis)-76212', 'lambda-light-chains-(dako-omnis)-76201', 'androgen-receptor-(concentrate)-76575', 'cd138-(concentrate)-76642', 'myeloperoxidase-(autostainer-link-48)-76322', 'nucleophosmin-(autostainer-link-48)-76376', 'muts-protein-homolog-6-(concentrate)-76610', 'gastrin-(concentrate)-76139', 'p63-protein-(autostainer-link-48)-76384', 'muts-protein-homolog-2-(dako-omnis)-76193', 'cytokeratin-20-(dako-omnis)-76273', 'granzyme-b-(concentrate)-76643', 'cytokeratin-19-(autostainer-link-48)-76346', 'bcl6-protein-(autostainer-link-48)-76355', 'cytokeratin-high-molecular-weight-(dako-omnis)-76168', 'melanosome-(autostainer-link-48)-76279', 'cytomegalovirus-(concentrate)-154020', 'cd68-(dako-omnis)-76223', 'p53-protein-(dako-omnis)-76230', 'iga-specific-for-alpha-chains-(dako-omnis)-76204', 'igm-specific-for-mu-chains-fitc-rabbit-f(ab-)2-(conjugate)-153599', 'cd23-(dako-omnis)-76276', 'alpha-1-fetoprotein-(dako-omnis)-76196', 'myosin-heavy-chain-(smooth-muscle)-(autostainer-link-48)-76290', 'c1q-complement-fitc-(conjugate)-76164', 'prostate-specific-membrane-antigen-(autostainer-link-48)-76308', 'igm-specific-for-mu-chains-(dako-omnis)-76207', 'cd15-(concentrate)-76600', 'cd21-(autostainer-link-48)-76339', 'cd3-(concentrate)-76133', 'myogenin-(autostainer-link-48)-76291', 'igd-(dako-omnis)-76210', 'collagen-iv-(concentrate)-76531', 'cd34-class-ii-(concentrate)-76634', 'estrogen-receptor-(dako-omnis)-154037', 'cd68-(concentrate)-76550', 'estrogen-receptor-(autostainer-link-48)-154035', 'podoplanin-(autostainer-link-48)-76294', 'calponin-(concentrate)-76570', 'cd45-leucocyte-common-antigen-(concentrate)-76507', 'cytokeratin-18-(autostainer-link-48)-76348', 'mutl-protein-homolog-1-(concentrate)-76606', 'cytokeratin-17-(concentrate)-76623', 'cd19-(dako-omnis)-76261', 'calcitonin-(dako-omnis)-76209', 'cyclin-d1-(autostainer-link-48)-76302', 'igm-specific-for-mu-chains-(autostainer-link-48)-76324', 'mammaglobin-(dako-omnis)-76184', 'neurofilament-protein-(concentrate)-76525', 'c5b-9-(concentrate)-76527', 'cd7-(concentrate)-76650', 'cd43-(autostainer-link-48)-76364', 'bcl6-protein-(dako-omnis)-76238', 'p53-protein-(autostainer-link-48)-76347', 'cytokeratin-20-(autostainer-link-48)-76392', 'cytokeratin-5-6-(autostainer-link-48)-76394', 'mesothelial-cell-(concentrate)-76560', 'cd45r0-(concentrate)-76511', 'thyroglobulin-(autostainer-link-48)-76320', 'cd3-(concentrate)-76649', 'neurofilament-protein-(dako-omnis)-76221', 'neuron-specific-enolase-(autostainer-link-48)-76343', 'muts-protein-homolog-6-(dako-omnis)-76194', 'iga-specific-for-alpha-chains-(autostainer-link-48)-76321', 'kappa-light-chains-(autostainer-link-48)-76317', 'imp3-(concentrate)-76596', 'c3c-complement-fitc-(conjugate)-76160', 'amacr-(dako-omnis)-76177', 'progesterone-receptor-(dako-omnis)-96511', 'alpha-1-fetoprotein-(autostainer-link-48)-76313', 'cytokeratin-(autostainer-link-48)-76280', 'iga-specific-for-alpha-chains-fitc-(conjugate)-76115', 'amyloid-a-(concentrate)-76522', 'mammaglobin-(autostainer-link-48)-76295', 'cd235a-glycophorin-a-(concentrate)-76536', 'igd-(autostainer-link-48)-76327', 'cd15-(dako-omnis)-76179', 'p63-protein-(dako-omnis)-76266', 'glial-fibrillary-acidic-protein-(concentrate)-76683', 'cd20cy-(autostainer-link-48)-76335', 'cd56-(concentrate)-76668', 'cd34-class-ii-(autostainer-link-48)-76361', 'mast-cell-tryptase-(autostainer-autostainer-plus)-76476', 'melan-a-(concentrate)-76638', 'cd79-(dako-omnis)-76234', 'epstein-barr-virus-lmp-(autostainer-link-48)-76391', 'c-erbb-2-oncoprotein-(concentrate)-154013', 'glial-fibrillary-acidic-protein-(dako-omnis)-76214', 'myod1-(concentrate)-76561', 'epstein-barr-virus-lmp-(concentrate)-76555', 'thyroglobulin-(concentrate)-76128', 'ki-67-antigen-(dako-omnis)-76239', 'cytokeratin-(dako-omnis)-76170', 'b-cell-specific-activator-protein-(dako-omnis)-76257', 'desmin-(autostainer-link-48)-76337', 'amyloid-a-(autostainer-link-48)-76336', 'helicobacter-pylori-(concentrate)-76150', 'kappa-light-chains-(dako-omnis)-76200', 'erg-(ets-related-gene)-(dako-omnis)-76263', 'cd56-(autostainer-link-48)-76358', 'cytokeratin-17-(autostainer-link-48)-76350', 'inhibin-(dako-omnis)-76175', 'cd10-autostainer-link-48-1931718', 'cd20cy-(dako-omnis)-76218', 'epithelial-antigen-(concentrate)-76534', 'estrogen-receptor-(dako-omnis)-76192', 'amyloid-a-(dako-omnis)-76219', 'e-cadherin-(dako-omnis)-76176', 'cyclin-d1-(concentrate)-76608', 'gastrin-(dako-omnis)-76211', 'mum1-protein-(concentrate)-76652', 'alpha-1-antitrypsin-(dako-omnis)-76199', 'cdx2-(autostainer-link-48)-76300', 'erg-(ets-related-gene)-(autostainer-link-48)-76381', 'ki-67-antigen-(concentrate)-76646', 'cd10-dako-omnis-1931628', 'cytokeratin-8-18-(autostainer-link-48)-76312', 'vimentin-(autostainer-link-48)-76360', 'hepatocyte-(concentrate)-76633', 'inhibin-(autostainer-link-48)-76285', 'cytokeratin-5-6-(concentrate)-76644', 'cd246-alk-protein-dako-omnis-1931656', 'cd1a-(autostainer-link-48)-76293', 'postmeiotic-segregation-increased-2-(concentrate)-76611', 'mum1-protein-(autostainer-link-48)-76370', 'cd246-alk-protein-(dako-omnis)-76250', 'cd246-alk-protein-(concentrate)-76637', 'carcinoembryonic-antigen-(dako-omnis)-76235', 'glial-fibrillary-acidic-protein-(autostainer-link-48)-76331', 'cd1a-(concentrate)-76580', 'carcinoembryonic-antigen-(autostainer-link-48)-76352', 'myogenin-(dako-omnis)-76181', 'von-willebrand-factor-(autostainer-link-48)-76333', 'progesterone-receptor-(concentrate)-76578', 'thyroglobulin-(dako-omnis)-76203', 'cd246-alk-protein-(autostainer-link-48)-76367', 'muc5ac-(autostainer-link-48)-76383', 'postmeiotic-segregation-increased-2-(autostainer-link-48)-76306', 'placental-alkaline-phosphatase-(dako-omnis)-76274', 'cd99-mic2-gene-products-ewing-s-sarcoma-marker-(autostainer-link-48)-76284', 'cd10-(dako-omnis)-76255', 'c5b-9-(concentrate)-153988', 'cd8-(dako-omnis)-76236', 'actin-(smooth-muscle)-(autostainer-link-48)-76342', 'hepatocyte-(autostainer-link-48)-76354', 'igg-specific-for-gamma-chains-(concentrate)-76131', 'p53-protein-(concentrate)-76616', 'thyroid-peroxidase-(concentrate)-76651', 'igg-specific-for-gamma-chains-(dako-omnis)-76206', 'cytomegalovirus-(dako-omnis)-76271', 'p21waf1-cip1(concentrate)-76639', 'thrombomodulin-(concentrate)-76500', 'muts-protein-homolog-2-(autostainer-link-48)-76304', 'renal-cell-carcinoma-marker-(concentrate)-76601', 'octamer-binding-transcription-factor-3-4-(autostainer-link-48)-76310', 'progesterone-receptor-(autostainer-link-48)-154123', 'lysozyme-ec-3-2-1-17-(concentrate)-76124', 'cd138-(autostainer-link-48)-76368', 'epithelial-membrane-antigen-(autostainer-link-48)-76359', 'cd45-leucocyte-common-antigen-(autostainer-link-48)-76389', 'synaptophysin-(autostainer-link-48)-76382', 'cd68-(dako-omnis)-76227', 'prostatic-acid-phosphatase-(concentrate)-76533', 'neurofilament-protein-(autostainer-link-48)-76338', 'helicobacter-pylori-(concentrate)-154089', 'cd5-(concentrate)-76607', 'cd2-(autostainer-link-48)-76375', 'ca-125-(dako-omnis)-76268', 'cytokeratin-high-molecular-weight-(concentrate)-76501', 'amacr-(autostainer-link-48)-76287', 'synaptophysin-(dako-omnis)-76264', 'c1q-complement-fitc-(conjugate)-153986', 'epithelial-membrane-antigen-(concentrate)-76498', 'chorionic-gonadotropin-(autostainer-link-48)-76319', 'nucleophosmin-(dako-omnis)-76259', 'cd23-(autostainer-link-48)-76395', 'calretinin-(concentrate)-76647', 'cyclin-d1-(dako-omnis)-76191', 'pd-l1-(concentrate)-154119', 'helicobacter-pylori-(dako-omnis)-76213', 'cd3-(dako-omnis)-76197', 'cd117-c-kit-(concentrate)-76145', 'ca-19-9-(concentrate)-76563', 'zap-70-(autostainer-link-48)-76377', 'cytokeratin-18-(concentrate)-76619', 'prostate-specific-membrane-antigen-(concentrate)-76591', 'igg-specific-for-gamma-chains-fitc-rabbit-f(ab-)2-(conjugate)-153587', 'chorionic-gonadotropin-(concentrate)-76127', 'actin-(smooth-muscle)-(concentrate)-76542', 'cytokeratin-8-18-(concentrate)-76615', 'von-willebrand-factor-(concentrate)-76122', 'cd57-(concentrate)-76656', 'adrenocorticotropin-(concentrate)-76556', 'cd57-(dako-omnis)-76254', 'mitf-(concentrate)-76592', 'cd30-(autostainer-link-48)-76334', 'cytokeratin-19-(dako-omnis)-76229', 's100-(autostainer-link-48)-76315', 'bcl2-oncoprotein-(concentrate)-76553', 'caldesmon-(dako-omnis)-76171', 'mum1-protein-(dako-omnis)-76253', 'prostein-(concentrate)-76587', 'cd4-(concentrate)-76673', 'glycophorin-c-(concentrate)-76537', 'albumin-fitc-(conjugate)-76155', 'muts-protein-homolog-2-(concentrate)-76605', 'chorionic-gonadotropin-(concentrate)-154014', 'synaptophysin-(concentrate)-76677', 'cd30-(dako-omnis)-76217', 'cd44-phagocytic-glycoprotein-1-(concentrate)-76630', 'cd21-(concentrate)-76530', 'neuron-specific-enolase-(concentrate)-76548', 'ki-67-antigen-(autostainer-link-48)-76356', 'lambda-light-chains-(concentrate)-76126', 'e-cadherin-(autostainer-link-48)-76286', 'myeloperoxidase-(dako-omnis)-76205', 'epstein-barr-virus-lmp-(dako-omnis)-76272', 'cytokeratin-7-(concentrate)-76620', 'carcinoembryonic-antigen-(concentrate)-76628', 'placental-alkaline-phosphatase-(autostainer-link-48)-76393', 'cd79-(concentrate)-76625', 'gross-cystic-disease-fluid-protein-15-(autostainer-link-48)-76298', 'melanosome-(concentrate)-76503', 'cytokeratin-7-(autostainer-link-48)-76349', 'beta-catenin-(autostainer-link-48)-76388', 'cdx2-(concentrate)-76602', 'cd31-endothelial-cell-(concentrate)-76539', 'gastrin-(autostainer-link-48)-76328', 'b-cell-specific-activator-protein-(autostainer-link-48)-76374', 'hepatocyte-(dako-omnis)-76237', 'cd79-(autostainer-link-48)-76351', 'mammaglobin-(concentrate)-76595', 'p63-protein-(concentrate)-76679', 'gross-cystic-disease-fluid-protein-15-(concentrate)-76604', 'lambda-light-chains-fitc-(conjugate)-76109', 'von-willebrand-factor-(concentrate)-154141', 'cd19-(autostainer-link-48)-76378', 'cd20cy-(concentrate)-76520', 'cd30-(concentrate)-76516', 'kappa-light-chains-(concentrate)-76157', 'actin-(muscle)-(autostainer-link-48)-76386', 'cd10-(autostainer-link-48)-76372', 'alpha-1-antitrypsin-(autostainer-link-48)-76316', 'octamer-binding-transcription-factor-3-4-(concentrate)-76613', 'cd8-(autostainer-link-48)-76353', 'mutl-protein-homolog-1-(dako-omnis)-76188', 'luteinizing-hormone-(concentrate)-76557', 'cd15-(autostainer-link-48)-76289', 'cd61-platelet-glycoprotein-iiia-(concentrate)-76518', 'bcl6-protein-(concentrate)-76641', 'epithelial-membrane-antigen-(dako-omnis)-76242', 'renal-cell-carcinoma-marker-(dako-omnis)-76185', 'prostein-(autostainer-link-48)-76307', 'lat-protein-(concentrate)-76658', 'cd31-endothelial-cell-(autostainer-link-48)-76341', 'calretinin-(autostainer-link-48)-76357', 'mast-cell-tryptase-(autostainer-link-48)-76366', 'cd3-(autostainer-link-48)-76314', 'beta-amyloid-(concentrate)-76547', 'cd57-(autostainer-link-48)-76371', 'kappa-light-chains-fitc-(conjugate-for-ihc)-76095', 'pd-l1-(concentrate)-91757', 'cytokeratin-(concentrate)-76562', 'cd19-(concentrate)-76662', 'cd7-(dako-omnis)-76252', 'cd138-(dako-omnis)-76251', 'amacr-(concentrate)-76588', 'cd45-leucocyte-common-antigen-(dako-omnis)-76270', 'calcitonin-(concentrate)-76142', 'muc5ac-(concentrate)-76678', 'tyrosinase-(concentrate)-76593', 'leukaemia-hairy-cell-(concentrate)-76552', 'helicobacter-pylori-(autostainer-link-48)-76330', 'serotonin-(concentrate)-76521', 'chorionic-gonadotropin-(dako-omnis)-76202', 'alpha-1-fetoprotein-(concentrate)-76120', 'epithelial-antigen-(autostainer-link-48)-76365', 'iga-igg-igm-kappa-lambda-fitc-(conjugate)-76159', 'igm-specific-for-mu-chains-(concentrate)-76132', 'iga-specific-for-alpha-chains-(concentrate)-76129', 'cd68-(concentrate)-76535', 'progesterone-receptor-(concentrate)-76579', 'c-erbb-2-oncoprotein-(concentrate)-76134', 'cytokeratin-5-6-(dako-omnis)-76275', 'cd35-(concentrate)-76541', 'cytokeratin-(concentrate)-76538', 'muc2-(concentrate)-76675', 'ca-125-(autostainer-link-48)-76387', 'estrogen-receptor-(autostainer-link-48)-76303', 'wilms-tumor-1-protein-(autostainer-link-48)-76282', 'muts-protein-homolog-6-(autostainer-link-48)-76305', 'vimentin-(dako-omnis)-76243', 'epithelial-related-antigen-(concentrate)-76565', 'plasma-cell-(concentrate)-76629'}
+    secondary-antibodies
+      Number of elements = 2: {'polyclonal-rabbit-anti-fitc-hrp-(affinity-isolated)-76885', 'rabbit-anti-mouse-immunoglobulins-fitc-(solid-phase-absorbed)-153254'}
+    control-reagents
+      Number of elements = 7: {'universal-negative-control-for-ir-series-rabbit-primary-antibodies-(autostainer-link-48)-76076', 'goat-serum-(normal-for-immunohistochemistry)-76083', 'universal-negative-control-for-ir-series-mouse-primary-antibodies-(autostainer-link-48)-76077', 'rabbit-serum-(normal)-76081', 'mouse-serum-(normal-for-immunohistochemistry)-76084', 'universal-negative-control-for-ga-series-mouse-primary-antibodies-(dako-omnis)-76075', 'rabbit-immunoglobulin-fraction-(normal-for-immunohistochemistry)-76082'}
+    antibody-cocktails
+      Number of elements = 1: {'anti-s100-anti-tyrosinase-anti-melan-a-76070'}
+  visualization-systems
+    envision-flex-optional-reagents
+      Number of elements = 14: {'target-retrieval-solution-high-ph-76761', 'mouse-linker-(dako-omnis)-76760', 'mouse-(linker)-(link)-76769', 'rabbit-linker-(dako-omnis)-76759', 'mouse-(linker)-(link)-152862', 'target-retrieval-solution-low-ph-76762', 'rabbit-(linker)-(link)-76766', 'target-retrieval-solution-high-ph-(dako-omnis)-76757', 'wash-buffer-76764', 'rabbit-(linker)-(dako-autostainer-autostainer-plus)-76768', 'antibody-diluent-(flex)-76763', 'hematoxylin-(link)-76765', 'target-retrieval-solution-low-ph-(dako-omnis)-76758', 'hematoxylin-(dako-autostainer-autostainer-plus)-76767'}
+    envision-flex-systems
+      Number of elements = 13: {'envision-flex-hrp-magenta-high-ph-(dako-omnis)-141242', 'envision-flex-high-ph-(link)-76774', 'envision-flex-mini-kit-high-ph-(dako-omnis)-152880', 'envision-flex-mini-kit-high-ph-(dako-autostainer-autostainer-plus)-76779', 'envision-flex-high-ph-(dako-omnis)-76772', 'envision-flex-mini-kit-high-ph-(link)-76778', 'envision-flex-high-ph-(dako-autostainer-autostainer-plus)-152872', 'envision-flex-mini-kit-high-ph-(dako-autostainer-autostainer-plus)-152879', 'envision-flex-high-ph-(dako-omnis)-152873', 'envision-flex-mini-kit-high-ph-(link)-152878', 'envision-flex-high-ph-(dako-autostainer-autostainer-plus)-76776', 'envision-flex-high-ph-(link)-152875', 'envision-flex-mouse-high-ph-(link)-76775'}
+    other-visualization-systems
+      Number of elements = 1: {'lsab-dako-real-detection-system-76801'}
+    envision-systems
+      Number of elements = 3: {'envision-detection-systems-peroxidase-dab-rabbit-mouse-76788', 'envision-single-reagent-(hrp-rabbit)-76782', 'envision-single-reagent-(hrp-mouse)-76781'}
+  ancillaries-for-ihc
+    chromogenic-substrates
+      Number of elements = 4: {'dab-liquid-76729', 'permanent-red-substrate-chromogen-liquid-76724', 'envision-flex-hrp-magenta-substrate-chromogen-system-(dako-omnis)-141229', 'dab-enhancer-76730'}
+    blocking-reagents-buffers-diluents
+      Number of elements = 12: {'antibody-diluent-76702', 'tris-buffered-nacl-solution-with-tween-20-ph-7-6-76717', 'antibody-diluent-dako-real-76707', 'antibody-diluent-background-reducing-76715', 'target-retrieval-solution-citrate-ph-6-76711', 'target-retrieval-solution-citrate-ph-6-1-(10x)-76703', 'wash-buffer-10x-76714', 'peroxidase-blocking-solution-dako-real-76708', 'target-retrieval-solution-ph-9-(10x)-76710', 'protein-block-serum-free-76719', 'biotin-blocking-system-76718', 'peroxidase-alkaline-phosphatase-blocking-reagent-(dual-endogenous-enzyme-blocking-reagent)-76706'}
+    mounting-media
+      Number of elements = 3: {'glycergel-mounting-medium-aqueous-76743', 'faramount-mounting-medium-aqueous-76746', 'fluorescence-mounting-medium-76745'}
+    dako-pen-slides-pascal-quality-strips
+      Number of elements = 1: {'silanized-slides-76740'}
+    proteolytic-enzymes
+      Number of elements = 1: {'proteinase-k-ready-to-use-76750'}
+    counterstains
+      Number of elements = 3: {'hematoxylin-mayer-s-76735', 'hematoxylin-(dako-autostainer)-76734', 'methyl-green-76732'}
+small-molecule-columns
+  normal-phase-sfc-columns
+    Number of elements = 3: {'polaris-for-np-sfc', 'infinitylab-poroshell-120-for-np-sfc', 'zorbax-for-np-sfc'}
+  preparative-hplc-columns
+    Number of elements = 3: {'normal-phase-prep', 'reversed-phase-prep', 'infinitylab-reversed-phase-prep'}
+  ion-exclusion-ligand-exchange-columns
+    Number of elements = 1: {'hi-plex'}
+  hilic-columns
+    Number of elements = 3: {'zorbax-hilic', 'infinitylab-poroshell-120-hilic', 'polaris-hilic'}
+  small-molecule-column-kits
+    Number of elements = 1: {'lc-column-method-development-kits'}
+  chiral-columns
+    Number of elements = 1: {'infinitylab-poroshell-120-chiral'}
+  reversed-phase-hplc-columns
+    Number of elements = 5: {'infinitylab-poroshell-120', 'pursuit-xrs-xrs-ultra', 'polaris', 'hc-c18-2-tc-c18-2', 'zorbax'}
+  application-specific-columns
+    Number of elements = 1: {'lc-columns-for-pfc-analysis'}
+biopharma-hplc-analysis
+  abundant-protein-depletion
+    Number of elements = 19: {'affinity-removal-spin-cartridge-hsa-only', 'mars-starter-kits', 'spin-filters', 'multiple-affinity-removal-spin-cartridge-human-14', 'multiple-affinity-removal-spin-cartridge-human-6', 'affinity-removal-column-hsa-only', 'multiple-affinity-removal-spin-cartridge-mouse-3', 'mrp-c18-high-recovery-protein-column', 'mars-reagents-supplies', 'multiple-affinity-removal-column-mouse-3', 'peptide-cleanup-c18-spin-tubes', 'spin-concentrators', 'multiple-affinity-removal-spin-cartridge-hsa-igg', 'multiple-affinity-removal-column-hsa-igg', 'multiple-affinity-removal-column-human-6', 'peptide-cleanup-c18-pipette-tips', 'multiple-affinity-removal-column-human-7', 'multiple-affinity-removal-spin-cartridge-human-7', 'multiple-affinity-removal-column-human-14'}
+  peptide-mapping
+    Number of elements = 6: {'peptide-standards', 'capillary-nano', 'advancebio-peptide-mapping', 'advancebio-ec-c18', 'advancebio-peptide-plus', 'zorbax-300extend-c18'}
+  glycan-analysis
+    glycan-analysis-columns
+      Number of elements = 1: {'advancebio-glycan-mapping'}
+    glycobiology-standards-libraries
+      Number of elements = 8: {'unlabeled-glycans', 'instantab-labeled-glycans', '2-ab-labeled-glycans', 'apts-labeled-glycans', 'instantpc-labeled-glycans', '2-ab-labeled-o-glycan', 'glycan-standards-libraries', '2-aa-labeled-glycans'}
+    glycan-preparation
+      Number of elements = 5: {'cleanup-cartridges', 'advancebio-gly-x-technology', 'glykoprep-technology', 'advancebio-sialic-acid-profiling-quantitation', 'glykoprep-plus-technology'}
+    glycobiology-enzymes
+      Number of elements = 2: {'endoglycosidases', 'exoglycosidases'}
+  preparative-hplc-columns-bulk-media
+    Number of elements = 4: {'varitide-rpc', 'pl-scx-for-prep-to-process', 'pl-sax-for-prep-to-process', 'plrp-s-for-prep-to-process'}
+  aggregate-fragment-analysis
+    Number of elements = 6: {'advancebio-sec-2-7-um', 'agilent-bio-sec-3', 'advancebio-sec-standards', 'agilent-bio-sec-5', 'zorbax-gf-250-450', 'advancebio-sec'}
+  intact-subunit-analysis
+    Number of elements = 7: {'agilent-nist-mab', 'poroshell-300', 'advancebio-desalting-rp', 'zorbax-rrhd-wide-pore', 'plrp-s-for-biomolecules', 'zorbax-300stablebond', 'advancebio-rp-mab'}
+  oligonucleotide-analysis
+    Number of elements = 4: {'pl-sax-for-biomolecules', 'advancebio-oligonucleotide', 'oligonucleotide-standards', 'plrp-s-for-biomolecules'}
+  amino-acid-cell-culture-analysis
+    Number of elements = 2: {'advancebio-amino-acid-analysis-aaa', 'advancebio-ms-spent-media'}
+  charge-variant-analysis
+    Number of elements = 6: {'agilent-bio-mab', 'zorbax-ion-exchange', 'agilent-bio-iex', 'pl-scx-for-biomolecules', 'bio-monolith', 'pl-sax-for-biomolecules'}
+  antibody-titer-determination
+    Number of elements = 1: {'bio-monolith-protein-a-protein-g'}
+  protein-depletion-sample-cleanup
+    antibody-preparation
+      Number of elements = 1: {'assaymap-mab-purification-kits'}
+  intact-analysis-by-hic
+    Number of elements = 1: {'advancebio-hic'}
+real-time-pcr-(qpcr)
+  real-time-pcr-(qpcr)-cdna-synthesis-kits
+    affinityscript
+      Number of elements = 4: {'affinityscript-cdna-synthesis-kit-232713', 'affinityscript-multiple-temperature-cdna-synthesis-kit-530829', 'affinityscript-one-step-rt-pcr-kit-232705', 'affinityscript-multiple-temperature-reverse-transcriptase-232706'}
+    accuscript
+      Number of elements = 1: {'accuscript-hi-fi-reverse-transcriptase-232708'}
+  real-time-pcr-(qpcr)-starter-kits
+    starter-kits-for-aria-real-time-pcr-systems
+      Number of elements = 2: {'ariamx-qrt-pcr-starter-pack-232734', 'ariamx-sybr-green-starter-pack-232735'}
+    brilliant-hrm-ultra-fast-starter-pack-for-qpcr-systems
+      Number of elements = 1: {'brilliant-hrm-ultra-fast-starter-pack-232736'}
+  real-time-pcr-(qpcr)-nucleic-acid-purification-isolation-kits
+    dna
+      Number of elements = 4: {'genomic-dna-isolation-232740', 'strataprep-plasmid-miniprep-kits-232742', 'strataprep-dna-gel-extraction-kits-233197', 'sidestep-ii-cell-lysis-analysis-kit-232731'}
+    mrna
+      Number of elements = 1: {'sidestep-mrna-enrichment-kit-232733'}
+    rna
+      Number of elements = 4: {'absolutely-total-rna-ffpe-purification-kits-232738', 'absolutely-rna-purification-magnetic-bead-232737', 'absolutely-total-rna-purification-kits-232739', 'sidestep-lysis-stabilization-buffer-232732'}
+  real-time-pcr-(qpcr)-master-mixes
+    ultrafast-qpcr-kits
+      Number of elements = 4: {'qpcr-brilliant-iii-sybr-master-mix-with-rox-792506', 'qpcr-brilliant-iii-sybr-master-mix-792503', 'qpcr-brilliant-iii-probe-master-mix-792497', 'qpcr-brilliant-iii-probe-mm-with-rox-792500'}
+    brilliant-ii
+      Number of elements = 6: {'qrt-pcr-brilliant-ii-probe-core-reagent-kit-792464', 'brilliant-ii-probe-mm-232717', 'brilliant-ii-sybr-mm-232719', 'easy-a-one-tube-rt-pcr-kit-232704', 'brilliant-ii-probe-mm-with-rox-232718', 'brilliant-ii-sybr-mm-with-rox-232720'}
+    brilliant-iii
+      Number of elements = 3: {'brilliant-iii-probe-mm-232721', 'brilliant-iii-sybr-mm-232723', 'brilliant-iii-sybr-mm-with-rox-530841'}
+    qpcr-kits
+      Number of elements = 4: {'qpcr-brilliant-ii-probe-mm-792481', 'qpcr-brilliant-ii-probe-mm-with-rox-792486', 'qpcr-brilliant-ii-sybr-mm-with-rox-792492', 'qpcr-brilliant-ii-sybr-mm-792489'}
+    brilliant-hrm-ultra-fast-loci
+      Number of elements = 1: {'brilliant-hrm-ultra-fast-loci-master-mix-232716'}
+    brilliant-multiplex
+      Number of elements = 1: {'brilliant-probe-multiplex-mm-232724'}
+  real-time-pcr-detection-kits
+    mycosensor-qpcr-detection-kit
+      Number of elements = 1: {'mycosensor-qpcr-assay-kits-232728'}
+    qpcr-detection-kit-for-food-agriculture
+      Number of elements = 1: {'porcine-detection-kit-232729'}
+    mirna-qpcr-detection-kits
+      Number of elements = 3: {'high-specificity-mirna-qrt-pcr-detection-232725', 'mirna-qpcr-detection-reagents-232727', 'mirna-qrt-pcr-detection-kit-232714'}
+    sars-cov-2-detection-kits
+      Number of elements = 1: {'sars-cov-2-qrt-pcr-dx-kit-1488304'}
+    qpcr-ngs-library-quantification-kit
+      Number of elements = 1: {'qpcr-ngs-library-quantification-kit-232730'}
+  real-time-pcr-(qpcr)-total-rna-references-controls
+    primers-for-qpcr-other-applications
+      Number of elements = 3: {'random-9-mer-primer-913771', 'human-u6-forward-primer-232756', 'universal-reverse-primer-232758'}
+    total-rna-for-qpcr-general-applications
+      Number of elements = 5: {'human-reference-rna-232755', 'mvp-rat-total-rna-232762', 'mvp-mouse-total-rna-232760', 'mouse-reference-rna-232759', 'mvp-human-total-rna-232761'}
+    reference-control-in-qpcr
+      Number of elements = 2: {'alien-qrt-pcr-232754', 'passive-reference-dye-(rox)-232757'}
+  real-time-pcr-(qpcr)-plastics-supplies
+    plastics-supplies-for-aria-qpcr-systems
+      Number of elements = 4: {'well-plate-supplies-232747', 'tube-strip-caps-232745', 'tube-strips-232746', 'ariamx-adhesive-plate-seals-539688'}
+    plastics-supplies-for-mx3000p-3005p-qpcr-system
+      Number of elements = 2: {'well-plates-232748', 'qpcr-accessories-232749'}
+    real-time-pcr-installation-qualification-plates
+      Number of elements = 2: {'mx3000-mx3005p-install-validation-plate-539680', 'sybr-qualification-plate-kit-539683'}
+    tube-racks-for-qpcr
+      Number of elements = 1: {'tube-racks-232744'}
+  real-time-pcr-(qpcr)-instruments
+    ariadx-real-time-pcr-system-software-pc
+      Number of elements = 2: {'ariadx-real-time-pcr-system-232712', 'ariadx-electronic-tracking-qpcr-software-539657'}
+    ariamx-real-time-pcr-system-software-pc
+      Number of elements = 4: {'hp-650-notebook-pc-232709', 'ariamx-hrm-qpcr-software-232753', 'ariamx-electronic-tracking-qpcr-software-232752', 'ariamx-real-time-pcr-system-232711'}
+    mx3000-mx3005p-real-time-pcr-system-software
+      Number of elements = 3: {'mxpro-qpcr-software-232751', 'mx3000p-qpcr-system-232710', 'mxpro-et-qpcr-software-232750'}
+    optical-cartridges-for-ariamx-real-time-pcr-system
+      Number of elements = 1: {'ariamx-ariadx-optical-cartridges-232743'}
+  real-time-pcr-(qpcr)-kits-reagents
+    Number of elements = 1: {'qpcr-based-specialty-kits-reagents'}
+  real-time-pcr-(qpcr)-enzymes
+    Number of elements = 2: {'reverse-transcriptases', 'enzyme-kits'}
+clinical-microplate-instrumentation
+  clinical-microplate-instrumentation-control-analysis-software
+    clinical-imager-reader-control-analysis-software
+      Number of elements = 2: {'biotek-gen5-software-for-detection-1623229', 'biotek-gen5-software-for-imaging-microscopy-1623228'}
+    clinical-microplate-automation-liquid-handling-software
+      Number of elements = 1: {'biotek-liquid-handling-control-lhc-software-1623231'}
+  supplies-accessories-for-clinical-microplate-instrumentation
+    Number of elements = 5: {'qc-reagents-test-plates-for-clinical-microplate-instrumentation', 'microplates-labware-for-clinical-microplate-instrumentation', 'peripherals-for-clinical-imagers-readers', 'supplies-for-clinical-imagers-readers', 'peripherals-supplies-for-clinical-washers-dispensers'}
+  clinical-microplate-imagers
+    clinical-imaging-multimode-readers
+      Number of elements = 5: {'biotek-cytation-1-cell-imaging-multimode-reader-1623201', 'biotek-cytation-5-cell-imaging-multimode-reader-1623203', 'biotek-cytation-c10-confocal-imaging-reader-1775873', 'biotek-biospa-live-cell-analysis-system-1623216', 'biotek-cytation-7-cell-imaging-multimode-reader-1623205'}
+    clinical-automated-microscopes
+      Number of elements = 2: {'biotek-lionheart-fx-automated-microscope-1623189', 'biotek-lionheart-lx-automated-microscope-1623191'}
+  clinical-microplate-readers
+    clinical-multimode-microplate-readers
+      Number of elements = 5: {'biotek-synergy-lx-multimode-reader-1623210', 'biotek-cytation-hybrid-multimode-reader-1623198', 'biotek-synergy-h1-multimode-reader-1623194', 'biotek-synergy-htx-multimode-reader-1623208', 'biotek-synergy-neo2-hybrid-multimode-reader-1623196'}
+    clinical-absorbance-microplate-readers
+      Number of elements = 3: {'biotek-800-ts-absorbance-reader-1623178', 'biotek-epoch-2-microplate-spectrophotometer-1623182', 'biotek-epoch-microplate-spectrophotometer-1623184'}
+  clinical-automated-liquid-dispensing-handling
+    clinical-automated-microplate-washers-dispensers
+      Number of elements = 7: {'biotek-elx405-select-deep-well-washer-1623270', 'biotek-microfill-dispenser-1623261', 'biotek-50-ts-washer-1623268', 'biotek-el406-washer-dispenser-1623256', 'biotek-405-ls-washer-1623264', 'biotek-multiflo-fx-multimode-dispenser-1623258', 'biotek-405-ts-washer-1623266'}
+  clinical-microplate-automation
+    clinical-microplate-handlers-incubators
+      Number of elements = 2: {'biotek-biostack-microplate-stacker-1623223', 'biotek-biospa-8-automated-incubator-1623214'}
+liquid-chromatography-mass-spectrometry-lc-ms
+  lc-ms-application-solutions
+    food-testing-solutions
+      Number of elements = 6: {'veterinary-drug-pcdl-for-lc-tof-lc-q-tof', 'veterinary-drug-tmrm-database-for-triple-quadrupole-lc-ms', 'pesticides-tmrm-database-for-triple-quadrupole-lc-ms', 'mycotoxins-pcdl', 'pesticides-pcdl-for-lc-tof-lc-q-tof', 'comprehensive-veterinary-drug-dmrm-solution'}
+    forensic-toxicology-solutions
+      Number of elements = 2: {'forensic-toxicology-tmrm-database-for-triple-quadrupole-lc-ms', 'forensic-toxicology-pcdl-for-lc-tof-lc-q-tof'}
+    environmental-solutions
+      Number of elements = 2: {'pfas-mrm-database-for-lc-tq', 'environmental-water-screening-pcdl'}
+    life-sciences-solutions
+      Number of elements = 2: {'metlin-metabolomics-database-library', 'metabolomics-dmrm-database-method'}
+    pharmaceutical-solutions
+      Number of elements = 1: {'extractables-leachables-pcdl-for-lc-tof-lc-q-tof'}
+  lc-ms-instruments
+    triple-quadrupole-lc-ms
+      Number of elements = 4: {'6470b-triple-quadrupole-lc-ms', '6495c-triple-quadrupole-lc-ms', '6475-triple-quadrupole-lc-ms', 'ultivo-triple-quadrupole-lc-ms-lc-tq'}
+    high-throughput-lc-ms
+      Number of elements = 5: {'rapidfire-analyzer-software', 'rapidfire-400', 'streamselect-lc-ms-system', 'rapidfire-cartridges', 'rapidfire-integrator-software'}
+    time-of-flight-lc-ms
+      Number of elements = 1: {'6230b-time-of-flight-tof-lc-ms'}
+    quadrupole-time-of-flight-lc-ms
+      Number of elements = 5: {'6545-lc-q-tof', '6545xt-advancebio-lc-q-tof', '6530-q-tof-lc-ms', '6560-ion-mobility-lc-q-tof', '6546-lc-q-tof'}
+    single-quadrupole-lc-ms
+      Number of elements = 3: {'lc-msd-xt', 'lc-msd-iq', 'lc-msd'}
+  lc-ms-supplies-accessories
+    Number of elements = 5: {'cleaning-maintenance-supplies-for-lc-ms', 'quiet-cover-for-lc-ms', 'instrument-supplies-for-lc-ms', 'vacuum-pump-supplies-for-lc-ms', 'tuning-performance-standards-for-lc-ms'}
+  lc-ms-ion-sources
+    Number of elements = 6: {'nanospray-source', 'jet-stream-technology-ion-source-ajs', 'multimode-source', 'capillary-electrospray-source', 'electrospray-esi-source', 'atmospheric-pressure-chemical-ionization-source-apci'}
+gas-purification-gas-management
+  gas-management
+    Number of elements = 5: {'adm-flow-meter', 'gas-leak-detector', 'gas-cylinder-supplies', 'gc-fittings', 'tubing'}
+  gas-purification
+    Number of elements = 3: {'renewable-gas-purification-system', 'gas-clean-purification-system', 'in-line-gas-purifiers'}
+mirna-microarray-platform
+  mirna-microarray-supplies
+    Number of elements = 1: {'microarray-hybridization-oven-228515'}
+  mirna-microarray-kits-reagents
+    Number of elements = 3: {'mirna-complete-labeling-hybridization-kit-228507', 'universal-mirna-reference-kit-228508', 'mirna-spike-in-kit-228509'}
+  mirna-microarray-software
+    Number of elements = 1: {'feature-extraction-software-228496'}
+  mirna-microarrays
+    Number of elements = 4: {'sureprint-human-mirna-microarrays-228510', 'sureprint-rat-mirna-microarrays-228512', 'custom-mirna-microarrays-228513', 'sureprint-mouse-mirna-microarrays-228511'}
+gene-expression-microarray-platform
+  gene-expression-exon-microarrays
+    plant-microarrays
+      Number of elements = 8: {'barley-gene-expression-microarrays-228475', 'medicago-gene-expression-microarrays-228478', 'cotton-gene-expression-microarrays-228477', 'rice-gene-expression-microarrays-228479', 'tobacco-gene-expression-microarrays-228480', 'brassica-gene-expression-microarrays-228476', 'tomato-gene-expression-microarrays-228481', 'wheat-gene-expression-microarrays-228482'}
+    animal-microarrays
+      Number of elements = 10: {'salmon-gene-expression-microarrays-228455', 'chicken-gene-expression-microarrays-228449', 'sheep-gene-expression-microarrays-228456', 'rabbit-gene-expression-microarrays-228453', 'canine-gene-expression-microarrays-228448', 'rhesus-macaque-gene-expression-microarrays-228454', 'porcine-gene-expression-microarrays-228452', 'bovine-gene-expression-microarrays-228447', 'mosquito-gene-expression-microarrays-228451', 'horse-gene-expression-microarrays-228450'}
+    model-organism-microarrays
+      Number of elements = 10: {'sureprint-g3-mouse-gene-expression-microarrays-228472', 'c-elegans-gene-expression-microarrays-228466', 'mouse-gene-expression-microarrays-228471', 'mouse-exon-microarrays-228463', 'zebrafish-gene-expression-microarrays-228470', 'arabidopsis-gene-expression-microarray-228465', 'xenopus-gene-expression-microarrays-228468', 'rat-exon-microarrays-228464', 'drosophila-gene-expression-microarrays-228467', 'rat-gene-expression-microarrays-228474'}
+    custom-microarrays
+      Number of elements = 2: {'custom-gene-expression-microarrays-228460', 'custom-exon-microarrays-228459'}
+    bacteria-fungi-microarrays
+      Number of elements = 3: {'e-coli-gene-expression-microarrays-228457', 'yeast-gene-expression-microarrays-228469', 'magnaporthe-rice-gene-expression-microarrays-228458'}
+    human-microarrays
+      Number of elements = 2: {'human-exon-microarrays-228461', 'human-gene-expression-microarrays-228462'}
+  gene-expression-microarray-kits-reagents
+    Number of elements = 7: {'gene-expression-microarrays-hybridization-kits-228485', 'low-input-quick-amp-wt-labeling-kits-228487', 'gene-expression-universal-reference-rnas-228491', 'rna-spike-in-kits-228489', 'rna-isolation-kits-228490', 'low-input-quick-amp-gene-expression-labeling-kits-228486', 'quick-amp-gene-expression-labeling-kits-228488'}
+  gene-expression-microarray-buffers
+    Number of elements = 2: {'microarray-wash-buffer-additive-228484', 'fragmentation-buffer-228483'}
+  gene-expression-microarray-supplies
+    Number of elements = 1: {'hybridization-chamber-228506'}
+  gene-expression-microarray-software
+    Number of elements = 1: {'earray-228499'}
+  gene-expression-microarray-scanners-equipment
+    Number of elements = 1: {'surescan-dx-microarray-scanner-228492'}
+hybridization-based-next-generation-sequencing-(ngs)
+  Number of elements = 8: {'ngs-quality-control', 'rna-seq-library-preparation-kits', 'ngs-automation-platforms', 'ngs-software', 'dna-seq-reagents-kits-library-preparation-kits', 'ngs-custom-target-enrichment-probes', 'ngs-catalog-target-enrichment-probes', 'exome-probes'}
+automated-electrophoresis
+  bioanalyzer-systems
+    bioanalyzer-software
+      Number of elements = 2: {'2100-expert-security-pack-228258', '2100-expert-software-228259'}
+    bioanalyzer-dna-kits-reagents
+      Number of elements = 2: {'bioanalyzer-dna-analysis-228248', 'bioanalyzer-high-sensitivity-dna-analysis-228249'}
+    bioanalyzer-protein-kits-reagents
+      Number of elements = 2: {'bioanalyzer-protein-analysis-228253', 'bioanalyzer-high-sensitivity-protein-analysis-228254'}
+    bioanalyzer-instrument
+      Number of elements = 2: {'2100-bioanalyzer-instrument-228250', '2100-bioanalyzer-laptop-228251'}
+    bioanalyzer-parts-accessories
+      Number of elements = 1: {'bioanalyzer-parts-accessories-228252'}
+    bioanalyzer-rna-kits-reagents
+      Number of elements = 3: {'bioanalyzer-rna-analysis-228256', 'bioanalyzer-small-rna-analysis-228257', 'bioanalyzer-high-sensitivity-rna-analysis-228255'}
+  fragment-analyzer-systems
+    fragment-analyzer-systems-parts-accessories
+      Number of elements = 1: {'fragment-analyzer-parts-accessories-1991415'}
+    fragment-analyzer-systems-dna-analysis-kits
+      Number of elements = 6: {'genomic-dna-kits-365702', 'plasmid-dna-kit-365704', 'large-fragment-analysis-kits-365703', 'small-fragment-ngs-kits-365701', 'fragment-analyzer-system-crispr-kits-365700', 'qualitative-dna-kits-365705'}
+    fragment-analyzer-systems
+      Number of elements = 3: {'5300-fragment-analyzer-system-365721', '5400-fragment-analyzer-system-365729', '5200-fragment-analyzer-system-365720'}
+    fragment-analyzer-systems-software
+      Number of elements = 1: {'fragment-analyzer-software-1149185'}
+    fragment-analyzer-systems-capillary-arrays
+      Number of elements = 1: {'capillary-arrays-380781'}
+    fragment-analyzer-systems-rna-analysis-kits
+      Number of elements = 2: {'small-rna-kits-365732', 'fragment-analyzer-rna-kits-365734'}
+  tapestation-systems
+    tapestation-parts-accessories
+      Number of elements = 2: {'tapestation-systems-parts-accessories-539298', '2200-tapestation-parts-accessories-228265'}
+    tapestation-instruments
+      Number of elements = 3: {'4150-tapestation-system-297322', '4200-tapestation-system-228263', 'tapestation-laptop-345933'}
+    tapestation-software
+      Number of elements = 2: {'tapestation-software-379381', '2200-tapestation-software-228269'}
+    tapestation-dna-screentape-reagents
+      Number of elements = 4: {'high-sensitivity-dna-screentape-analysis-228262', 'genomic-dna-screentape-analysis-228261', 'dna-screentape-analysis-228260', 'cell-free-dna-screentape-analysis-294915'}
+    tapestation-rna-screentape-reagents
+      Number of elements = 2: {'rna-screentape-analysis-228268', 'high-sensitivity-rna-screentape-analysis-228267'}
+  femto-pulse-systems
+    femto-pulse-system-dna-analysis-kits
+      Number of elements = 3: {'genomic-dna-165-kb-kit-365739', 'ultra-sensitivity-ngs-kit-365740', '55-kb-bac-kit-365744'}
+    femto-pulse-system-capillary-array
+      Number of elements = 1: {'femto-pulse-12-capillary-array-365736'}
+    femto-pulse-system-software
+      Number of elements = 1: {'femto-pulse-software-1144709'}
+    femto-pulse-system-parts-accessories
+      Number of elements = 1: {'femto-pulse-parts-accessories-1991416'}
+    femto-pulse-system-rna-analysis-kits
+      Number of elements = 1: {'ultra-sensitivity-rna-kit-365761'}
+    femto-pulse-system
+      Number of elements = 1: {'femto-pulse-system-365750'}
+  oligo-pro-ii-systems
+    Number of elements = 5: {'oligo-pro-ii-data-analysis-software-365774', 'oligo-pro-ii-system-capillary-arrays-365764', 'oligo-pro-ii-reagents-365772', 'oligo-pro-ii-parts-accessories-1991437', 'oligo-pro-ii-system-365769'}
+  zag-dna-analyzer-system
+    Number of elements = 4: {'zag-dna-analyzer-system-365716', 'zag-dna-analyzer-software-1231802', 'dsdna-kits-365706', 'zag-dna-analyzer-parts-accessories-1991418'}
+polymerase-chain-reaction-(pcr)
+  pcr-enzymes-reagents
+    dna-polymerases-for-pcr
+      Number of elements = 6: {'klenow-full-size-exonuclease-deficient-785902', 'taqplus-precision-pcr-system-785899', 'exo-pfu-dna-polymerase-785903', 'surestart-taq-dna-polymerase-233185', 'taq2000-dna-polymerase-785898', 'paq5000-dna-polymerase-785901'}
+    high-fidelity-gc-rich-target-dna-polymerases-for-pcr
+      Number of elements = 6: {'pfu-dna-polymerase-785921', 'cloned-pfu-dna-polymerase-785920', 'pfuultra-high-fidelity-dna-polymerase-alternative-detergent-785918', 'pfuultra-ii-fusion-high-fidelity-dna-polymerase-785916', 'herculase-ii-fusion-dna-polymerases-785914', 'herculase-enhanced-dna-polymerase-785919'}
+    high-fidelity-dna-polymerases-for-pcr
+      Number of elements = 3: {'pfuturbo-cx-hotstart-dna-polymerase-785905', 'pfuturbo-dna-polymerase-785912', 'picomaxx-high-fidelity-pcr-system-785904'}
+    ligases-for-pcr
+      Number of elements = 2: {'t4-dna-ligase-785926', 'pfu-dna-ligase-785925'}
+    dna-ladder-for-pcr
+      Number of elements = 1: {'1-10-kb-dna-ladder-785897'}
+    nucleases-for-pcr
+      Number of elements = 2: {'rnace-it-ribonuclease-cocktail-785929', 'dnase-i-rnase-free-785928'}
+    rna-polymerases-for-pcr
+      Number of elements = 3: {'t3-t7-polymerases-785935', 'rnamaxx-high-yield-transcription-kit-770667', 'sp6-rna-polymerase-785933'}
+    nuclease-inhibitor-for-pcr
+      Number of elements = 1: {'rnase-block-785927'}
+    reagents-for-pcr
+      Number of elements = 3: {'perfect-match-pcr-enhancer-785931', 'taq-extender-pcr-additive-785932', 'pcr-grade-dntp-10x-dna-polymerase-buffers-785930'}
+  pcr-plastics-supplies
+    tubes-plates-for-pcr
+      Number of elements = 5: {'pcr-tubes-786003', 'adhesive-sealing-film-786006', 'tube-strips-786004', 'cap-compression-tool-786007', '384-well-plates-for-surecycler-8800-786005'}
+    stratacooler
+      Number of elements = 2: {'cell-freezing-cryo-preservation-785946', 'stratacooler-lp-benchtop-cooler-785947'}
+    microcentrifuge-tubes-block
+      Number of elements = 1: {'microcentrifuge-tube-block-for-ice-785945'}
+    caps-for-pcr
+      Number of elements = 1: {'pcr-tube-strip-caps-785939'}
+  instrument-software-for-pcr
+    Number of elements = 1: {'rflp-decoder-software-785886'}
+  pcr-enzymes-master-mixes
+    high-fidelity-pcr-enzymes-master-mixes
+      Number of elements = 1: {'pfuultra-high-fidelity-dna-polymerase-alternative-detergent-601130'}
+    routine-pcr-enzymes-master-mixes
+      Number of elements = 1: {'exo-pfu-dna-polymerase-601136'}
+  pcr-kits-reagents
+    Number of elements = 3: {'pcr-based-specialty-kits-reagents', 'pcr-inhibitors', 'pcr-polymerases-reagents'}
+  cloning-pcr-detection-kits
+    pcr-based-detection-kits
+      Number of elements = 3: {'mycosensor-assay-kits-785871', 'dna-fish-id-kits-785872', 'suredirect-blood-pcr-kit-785870'}
+    cloning-kits
+      Number of elements = 4: {'surevector-785867', 'strataclone-pcr-cloning-kits-785866', 'pcr-polishing-kit-785865', 'easy-a-hi-fi-cloning-enzyme-785868'}
+  pcr-nucleic-acid-purification-isolation-kits
+    Number of elements = 1: {'strataprep-pcr-purification-kits-233198'}
+automated-liquid-handling
+  consumables-for-lab-automation
+    Number of elements = 5: {'plateloc-microplate-heat-seals', 'microplate-labels', 'disposable-pipette-tips-for-automation-solutions', 'assaymap-cartridges', 'bravo-lab-disposable-pipette-tips'}
+  automated-liquid-handling-platforms
+    Number of elements = 3: {'benchcel-workstation', 'bravo-automated-liquid-handling-platform', 'bravo-benchcel-workstation'}
+  automated-liquid-handling-applications
+    Number of elements = 4: {'bravo-ngs-workstation', 'bravo-metabolomics-sample-prep-platform', 'assaymap-bravo-protein-sample-prep-platform', 'bravo-ngs'}
+  automated-microplate-management
+    Number of elements = 6: {'microplate-barcode-labeler', 'plateloc-thermal-microplate-sealer', 'microplate-centrifuge', 'labware-minihub', 'labware-stacker', 'benchcel-microplate-handler'}
+crispr-cas
+  crispr-libraries
+    Number of elements = 6: {'custom-lentivirus-plasmid-libraries-228329', 'sureguide-mouse-crispr-library-228327', 'sureguide-custom-amplified-library-228324', 'sureguide-unamplified-custom-crispr-library-228328', 'sureguide-geckov2-crispr-plasmid-libraries-228325', 'sureguide-human-genome-wide-crispr-interference-activation-libraries-228326'}
+  crispr-cas9-nuclease-kits
+    Number of elements = 1: {'sureguide-cas9-nuclease-kits-228323'}
+  chemically-synthesized-sgrna
+    Number of elements = 1: {'sureguide-chemically-synthesized-sgrna-776093'}
+  crispr-library-cloning-kits
+    Number of elements = 1: {'surevector-library-cloning-kit-228332'}
+  crispr-grna-synthesis-control-kits
+    Number of elements = 2: {'sureguide-grna-synthesis-kit-228331', 'sureguide-grna-control-kit-228330'}
+capillary-electrophoresis-ce-ms
+  capillary-electrophoresis-ce-ms-consumables
+    ce-ce-ms-capillary-supplies
+      Number of elements = 9: {'usil-fc-usil-dna-capillaries-with-windows', 'extended-light-path-capillaries', 'bulk-usil-db-capillaries', 'capillary-cassettes', 'universal-bare-fused-silica-capillaries', 'alignment-interfaces', 'standard-bare-fused-silica-capillaries', 'usil-wax-capillaries-with-windows', 'polyvinyl-alcohol-pva-coated-capillaries'}
+    ce-ce-ms-instrument-parts-supplies
+      Number of elements = 8: {'ce-ce-ms-lamps', 'ce-ce-ms-supplies', 'ce-ce-ms-filters-frits', 'ce-ce-ms-cells', 'ce-ce-ms-tools', 'ce-ce-ms-cut-off-filters', 'electrode-assemblies', 'ce-ce-ms-fittings-connectors'}
+    ce-ce-ms-buffers-reagents-solutions-kits
+      Number of elements = 2: {'ce-ce-ms-solutions-kits', 'ce-ce-ms-buffers-reagents'}
+  ce-ce-ms-systems
+    Number of elements = 2: {'7100-ce-system', 'ce-ms-system'}
+microarray-scanners-platform
+  microarray-scanner-accessories-supplies
+    Number of elements = 5: {'hybridization-oven-rotator-rack-291072', 'surescan-microarray-scanner-slide-holders-(box-of-6)-294866', 'surescan-microarray-scanner-replacement-pc-bundle-291087', 'g2565-series-microarray-scanner-accessories-228494', 'hybridization-oven-rotator-rack-conversion-rod-291082'}
+agilent-multiple-affinity-removal-spin-columns-cartridges
+  human-multiple-affinity-removal-columns-cartridges
+    Number of elements = 2: {'removal-spin-columns', 'removal-spin-cartridges'}
+  multiple-affinity-removal-columns-cartridges-mouse
+    Number of elements = 2: {'removal-spin-cartridges-mouse', 'removal-columns-mouse'}
+next-generation-sequencing
+  hybridization-based-next-generation-sequencing-ngs
+    dna-seq-reagents-kits-library-preparation-kits
+      Number of elements = 8: {'sureselect-xt-hs2-dna-reagent-kit-783974', 'sureselectxt-methyl-seq-library-preparation-kit-for-targeted-methylation-sequencing-232864', 'sureselectxt-low-input-reagent-kits-232858', 'sureselectqxt-reagent-kits-232861', 'sureselectqxt-library-prep-for-wgs-232862', 'sureselectxt-hs-reagent-kits-232857', 'sureselectxt-reagent-kits-232859', 'sureselect-ion-proton-232863'}
+    ngs-catalog-target-enrichment-probes
+      Number of elements = 5: {'oneseq-cnv-backbone-sureselect-custom-panels-232870', 'clearseq-inherited-disease-panel-232818', 'sureselectxt-methyl-seq-capture-panels-232872', 'clearseq-comprehensive-cancer-232814', 'clearseq-rna-kinome-232812'}
+    rna-seq-library-preparation-kits
+      Number of elements = 4: {'sureselect-strand-specific-rna-library-preparation-for-whole-transcriptome-sequencing-232878', 'sureselect-xt-hs2-mrna-library-preparation-kit-1049125', 'sureselect-xt-hs2-rna-reagent-kit-1049115', 'sureselectxt-rna-direct-library-preparation-kit-for-targeted-rna-sequencing-232877'}
+    ngs-quality-control
+      Number of elements = 2: {'human-reference-dna-232876', 'ngs-ffpe-qc-kit-232865'}
+    ngs-software
+      Number of elements = 5: {'agent-232879', 'suredesign-232881', 'surecall-232880', 'alissa-align-call-930087', 'mastr-reporter-532083'}
+    cancer-all-in-one-assays
+      Number of elements = 3: {'sureselect-cancer-all-in-one-solid-tumor-assay-520077', 'sureselect-cancer-all-in-one-custom-ngs-assays-520080', 'sureselect-cancer-all-in-one-lung-assay-520074'}
+    exome-probes
+      Number of elements = 4: {'sureselect-human-all-exon-v7-232866', 'sureselect-focused-exome-232869', 'sureselect-non-human-exomes-232868', 'sureselect-clinical-research-exome-v2-232867'}
+    ngs-custom-target-enrichment-probes
+      Number of elements = 2: {'ngs-custom-target-enrichment-probes-232874', 'oneseq-constitutional-research-panel-232873'}
+    ngs-automation-platforms
+      Number of elements = 4: {'magnisdx-ngs-prep-system-364334', 'magnis-ngs-prep-system-291083', 'magnis-sureselect-xt-hs2-dna-reagent-kit-2008125', 'magnis-sureselect-xths-reagents-456506'}
+  community-designs-ngs
+    Number of elements = 6: {'agilent-community-designs-for-oncology-research-750982', 'agrigenomics-designs-1991887', 'model-organism-exome-sequencing-designs-536201', 'inherited-disease-research-designs-536204', 'designs-for-epigenetics-research-536211', 'infectious-disease-research-designs-536208'}
+  amplicon-based-next-generation-sequencing-ngs
+    amplicon-amplification-assay
+      Number of elements = 2: {'haloplexhs-custom-kits-232856', 'haloplex-custom-kits-232855'}
+  clinical-informatics-platform
+    Number of elements = 3: {'alissa-interpret-930086', 'alissa-reporter-1947792', 'alissa-interpret-research-1029784'}
+molecular-pathology
+  surefish-probes
+    Number of elements = 1: {'surefish-probes-2227132'}
+  ish-ancillaries-accessories
+    ish-ancillaries-accessories-(dako-omnis)
+      Number of elements = 1: {'anti-fitc-ap-cish-accessory-kit-(dako-omnis)-138760'}
+    ish-ancillaries-accessories-(manual)
+      Number of elements = 6: {'histology-fish-accessory-kit-155657', 'hybridizer-humidity-control-strips-76066', 'dako-genpoint-tyramide-signal-amplification-system-for-biotinylated-probes-76863', 'histology-fish-accessory-kit-76860', 'iqfish-fast-hybridization-buffer-76856', 'pna-ish-detection-kit-76869'}
+  cish-probes
+    ebv-kappa-lambda-probes
+      Number of elements = 13: {'28s-rna-cish-probe-138615', 'eber-rna-cish-probe-155650', 'lambda-mrna-cish-probe-155654', 'kappa-mrna-cish-probe-155653', 'eber-rna-cish-probe-138617', 'lambda-mrna-cish-probe-138621', 'eber-rna-cish-(dako-omnis)-138616', 'epstein-barr-virus-pna-probe-fluorescein-76870', 'positive-control-rna-cish-(dako-omnis)-138622', 'kappa-mrna-cish-probe-138620', 'epstein-barr-virus-pna-probe-fluorescein-153593', '28s-rna-cish-probe-155647', 'kappa-lambda-mrna-cish-(dako-omnis)-138619'}
+  iqfish-panels
+    iqfish-panel-for-lymphoma-(manual)
+      Number of elements = 9: {'igh-iqfish-break-apart-probe-138633', 'myc-iqfish-break-apart-probe-138635', 'igh-ccnd1-iqfish-dual-fusion-probe-138631', 'ccnd1-iqfish-break-apart-probe-138628', 'igh-myc-iqfish-dual-fusion-probe-138632', 'igh-bcl2-iqfish-dual-fusion-probe-138629', 'bcl6-iqfish-break-apart-probe-138627', 'bcl2-iqfish-break-apart-probe-138626', 'malt1-iqfish-break-apart-probe-138634'}
+    iqfish-panel-for-lung-cancer-(manual)
+      Number of elements = 4: {'alk-iqfish-break-apart-probe-76819', 'ros1-iqfish-break-apart-probe-76820', 'ret-iqfish-break-apart-probe-76821', 'met-iqfish-probe-with-cep7-76822'}
+cgh-cgh-snp-microarray-platform
+  cgh-cgh-snp-microarray-scanners-equipment
+    Number of elements = 1: {'surescan-microarray-scanner-228493'}
+  cgh-cgh-snp-microarrays
+    human-microarrays
+      Number of elements = 22: {'sureprint-g3-human-cgh-microarray-1x1m-228414', '-sureprint-g3-human-genome-cgh-snp-2x400k-microarray-228422', 'genetisure-cyto-8-x-60k-cgh-microarrays-885642', 'sureprint-g3-human-cgh-microarray-2x400k-228415', 'genetisure-pre-screen-complete-kit-(4x180)-293307', 'prenatal-research-cgh-cgh-snp-microarrays-228405', 'sureprint-g3-unrestricted-cgh-isca-v2-8x60k-228421', 'genetisure-postnatal-research-array-(2x400k)-228403', 'genetisure-cancer-research-cgh-snp-microarray-(2x400k)-228404', 'genetisure-pre-screen-microarrays-228424', 'sureprint-g3-human-cgh-microarray-4x180k-228416', 'genetisure-pre-screen-complete-kit-(8x60)-293304', 'genetisure-cyto-4-x-180k-cgh-microarrays-885641', 'sureprint-g3-isca-v2-cgh-snp-4x180k-microarray-228401', 'genetisure-cyto-cgh-microarrays-792263', 'sureprint-g3-human-cgh-microarray-8x60k-228417', 'sureprint-g3-unrestricted-cgh-(8x60k)-baylor-postnatal-228420', 'sureprint-g3-unrestricted-cgh-isca-v2-2x105k-228412', 'human-genome-cgh-microarray-kit-4x44k-228410', 'sureprint-g3-unrestricted-cgh-isca-v2-4x44k-228413', '-postnatal-research-cgh-cgh-snp-microarrays-228419', 'sureprint-g3-unrestricted-cgh-isca-v2-4x180k-228418'}
+    human-cnv-microarrays
+      Number of elements = 1: {'human-genome-cgh-microarrays-228399'}
+    non-human-microarrays
+      Number of elements = 2: {'model-organism-cgh-microarrays-228425', 'model-organism-cgh-microarrays-228426'}
+    custom-cgh-cgh-snp-microarrays
+      Number of elements = 1: {'custom-cgh-cgh-snp-microarrays-228398'}
+  cgh-cgh-snp-microarray-kits-reagents
+    Number of elements = 7: {'suretag-purification-columns-228503', 'oligo-acgh-chip-on-chip-hybridization-kit-228433', 'cot-1-human-dna-228431', 'genomic-dna-uls-labeling-kits-228432', 'suretag-labeling-kits-228504', 'genomic-dna-purification-module-228502', 'genetisure-pre-screen-amp-labeling-kit-293301'}
+  cgh-cgh-snp-microarray-supplies
+    Number of elements = 3: {'ozone-barrier-slide-cover-228501', 'microarray-hybridization-oven-accessories-228495', 'backing-slide-228505'}
+  cgh-cgh-snp-microarray-software
+    Number of elements = 2: {'cytogenomics-software-228500', 'agilent-genomic-workbench-228497'}
+  cgh-cgh-snp-microarray-buffers
+    Number of elements = 3: {'stabilization-drying-solution-228430', 'oligo-acgh-microarray-wash-buffer-228428', 'cgh-prehybridization-buffer-228427'}
+hematoxylin-eosin
+  h-e-reagents
+    Number of elements = 8: {'differentiation-solution-dako-75873', 'hematoxylin-dako-75867', 'harris-hematoxylin-dako-75875', 'gill-s-3-hematoxylin-dako-75874', 'eosin-y-phloxine-b-dako-75876', 'eosin-dako-75868', 'bluing-buffer-dako-75869', 'modified-eosin-y-dako-75877'}
+  h-e-ancillaries
+    Number of elements = 7: {'cover-glass-dako-75871', 'cover-glass-75863', 'reagent-package-for-coverstainer-75864', 'coverstainer-accessories-75865', 'mounting-medium-toluene-free-75872', 'slide-rack-dako-coverstainer-75866', 'mounting-medium-75870'}
+  automated-h-e-staining
+    Number of elements = 1: {'dako-coverstainer-75879'}
+amplicon-based-next-generation-sequencing-(ngs)
+  amplicon-amplification-assay
+    Number of elements = 6: {'cancer-genetics', 'prenatal', 'genetics-disorders', 'germline-cancer-genetics', 'complementary-products', 'cardio-disorders'}
+methylation-chip-on-chip-microarray-platform
+  epigenetic-specialty-microarrays
+    Number of elements = 3: {'custom-microarrays', 'chip-on-chip-microarrays', 'dna-methylation-microarrays'}
+gpc-sec-columns
+  gpc-sec-standards
+    pmma-standards
+      Number of elements = 3: {'infinitylab-easivial-pmma-standards', 'polymethylmethacrylate-pmma-individual-standards', 'polymethylmethacrylate-pmma-calibration-kits'}
+    polyacrylic-acid-standards
+      Number of elements = 1: {'polyacrylic-acid-na-salt-calibration-kits'}
+    polystyrene-standards
+      Number of elements = 4: {'polystyrene-calibration-kits', 'infinitylab-easical-polystrene-standards', 'infinitylab-easivial-polystyrene-standards', 'polystyrene-individual-standards'}
+    peo-peg-standards
+      Number of elements = 3: {'polyethylene-glycol-peg-polyethylene-oxide-peo-individual-standards', 'infinitylab-easivial-peo-peg-standards', 'peg-peo-calibration-kits'}
+  aqueous-polar-organic-gpc-sec-columns
+    Number of elements = 7: {'pl-multisolvent', 'pl-aquagel-oh-preparative', 'polargel', 'aqueous-gpc-sec-start-up-kits', 'pl-rapide-aqua', 'pl-hfipgel', 'pl-aquagel-oh-analytical'}
+  organic-gpc-sec-columns
+    Number of elements = 8: {'plgel-mixed-ls', 'infinitylab-pluspore', 'plgel-olexis', 'organic-gpc-sec-start-up-kits', 'plgel-mixed', 'plgel-individual-pore-size', 'pl-rapide', 'plgel-preparative'}
+biomolecules-conjugation-synthesis-purification
+  analytical-proteins-conjugates
+    phycobiliprotein
+      Number of elements = 5: {'phycobiliproteins', 'r-phycoerythrin-r-pe-conjugation-kit', 'rpe-conjugates', 'activated-phycobiliproteins', 'apc-conjugates'}
+    streptavidin
+      Number of elements = 3: {'streptavidin', 'immobilized-streptavidin', 'streptavidin-enzyme-conjugates'}
+  resins-latex-magnetic-particles
+    resins
+      Number of elements = 2: {'stratospheres-for-peptide-synthesis', 'varipure-ipe'}
+    magnetic-particles
+      Number of elements = 2: {'lodestars-streptavidin', 'lodestars-carboxyl'}
+    latex
+      Number of elements = 1: {'pl-latex'}
+  affinity-purification-proteins
+    Number of elements = 1: {'protein-a-fc20'}
+syringes-needles
+  autosampler-syringes-needles
+    Number of elements = 7: {'ctc-autosampler-syringes', 'ctc-smart-autosampler-syringes', 'autosampler-needles-plungers', 'gc-autosampler-syringes', 'syringes-for-waters-hplc-autosamplers', 'syringes-for-shimadzu-hplc-autosamplers', 'syringes-for-dionex-hplc-autosamplers'}
+  manual-syringes-needles
+    Number of elements = 2: {'color-coded-syringes-for-manual-injection-valves', 'manual-syringes'}
+dako-omnis-solution-for-ihc-ish
+  ish-ancillaries-accessories
+    Number of elements = 10: {'ish-pre-treatment-solution-(20x)-(dako-omnis)-75897', 'ish-stringent-wash-buffer-(20x)-(dako-omnis)-(gm30311-2)-75899', 'fluorescence-mounting-medium-(dako-omnis)-75900', 'ish-lid-for-dako-omnis-75892', 'ish-pepsin-(dako-omnis)-151706', 'ish-pepsin-(dako-omnis)-75898', 'ish-ethanol-solution-96-(dako-omnis)-75896', 'ish-cleaning-solution-(dako-omnis)-75895', 'mixing-device-for-dako-omnis-75893', 'vial-with-mixing-ball-2-ml-for-dako-omnis-75894'}
+  pharmdx-kit-for-dako-omnis
+    pharmdx-kit
+      Number of elements = 5: {'pd-l1-ihc-22c3-pharmdx-for-use-with-dako-omnis-894718', 'pd-l1-ihc-22c3-pharmdx-(dako-omnis)-338169', 'pd-l1-ihc-22c3-pharmdx-dako-omnis-2265427', 'pd-l1-ihc-22c3-pharmdx-for-use-with-dako-omnis-1508112', 'her2-iqfish-pharmdx-(dako-omnis)-76898'}
+  ihc-ancillaries-accessories
+    Number of elements = 10: {'hematoxylin-(dako-omnis)-75888', 'clearify-75889', 'dab-substrate-chromogen-system-(dako-omnis)-75890', 'wash-buffer-(20x)-(dako-omnis)-75887', 'slide-rack-for-dako-omnis-75882', 'sulfuric-acid-0-3-m-for-dako-omnis-75886', 'reagent-vial-small-large-for-dako-omnis-75885', 'slide-rack-color-clips-for-dako-omnis-75883', 'envision-flex-dab-enhancer-(dako-omnis)-338269', 'mixing-strip-for-dako-omnis-75884'}
+  iqfish-panel-for-lung-cancer
+    Number of elements = 4: {'ret-iqfish-break-apart-probe-(dako-omnis)-91765', 'ros1-iqfish-break-apart-probe-(dako-omnis)-91763', 'alk-iqfish-break-apart-probe-(dako-omnis)-91761', 'met-iqfish-probe-with-cep7-(dako-omnis)-91767'}
+  primary-antibodies-for-dako-omnis
+    primary-antibodies-(flex-ready-to-use)
+      Number of elements = 1: {'von-willebrand-factor-(dako-omnis)-76216'}
+  dako-omnis
+    Number of elements = 1: {'dako-omnis-75902'}
+  negative-controls-for-dako-omnis
+    negative-controls-(flex-ready-to-use)
+      Number of elements = 1: {'universal-negative-control-for-ga-series-rabbit-primary-antibodies-(dako-omnis)-76074'}
+  visualization-systems-for-dako-omnis
+    visualization-systems-reagents-(envision-flex)
+      Number of elements = 1: {'envision-flex-mini-kit-high-ph-(dako-omnis)-76773'}
+autostainer-link-solution-for-ihc
+  ancillaries-accessories
+    Number of elements = 8: {'hematoxylin-75854', 'clear-it-cleaning-reagent-for-dako-autostainer-75858', 'hematoxylin-(link)-75849', 'coverslipper-dako-75861', 'ihc-microscope-slides-flex-76737', 'dab-away-cleaning-agent-75852', 'reagent-bottles-user-fillable-for-autostainer-link-instruments-75847', 'instrument-cleaning-kit-(link)-75848'}
+  autostainer-link-48
+    Number of elements = 1: {'autostainer-link-48-75845'}
+disintegration-testing
+  disintegration-apparatus
+    Number of elements = 1: {'100-automated-disintegration-apparatus'}
+  disintegration-rotating-bottle-supplies
+    Number of elements = 9: {'rotating-bottle-supplies', 'disintegration-baskets', 'disintegration-plungers', 'disintegration-basket-covers', 'disintegration-fluted-disc', 'disintegration-basket-screens', 'disintegration-beakers', 'disintegration-tubes', 'disintegration-tools'}
+autostainer-plus-for-ihc
+  ancillaries-accessories
+    Number of elements = 3: {'dako-autostainer-reagent-vials-75856', 'dako-autostainer-reagent-racks-75855', 'dako-autostainer-slide-racks-75857'}
+labeling-systems
+  label-printers
+    Number of elements = 2: {'label-printer-(dako-autostainer-plus)-76812', 'universal-label-printer-(link)-76811'}
+  slide-labels
+    Number of elements = 5: {'slide-labels-large-flap-76807', 'slide-labels-small-flap-76808', 'slide-label-kit-small-flap-76805', 'slide-labels-square-flap-76806', 'slide-label-kit-large-flap-76809'}
+bioanalyzer-automated-electrophoresis
+  Number of elements = 1: {'bioanalyzer-software'}
+pt-link-for-pre-treatment
+  pt-link-accessories
+    Number of elements = 4: {'tank-cover-for-pt-link-76927', 'pt-link-pre-treatment-module-for-tissue-specimens-76929', 'pt-link-rinse-station-76928', 'tank-for-pt-link-76926'}
+microplates
+  standard-custom-microplates
+    Number of elements = 6: {'filter-microplates-740873', 'custom-microplate-services-740872', 'storage-assay-microplates-740877', 'reservoir-microplates-740875', 'cell-culture-imaging-microplates-1466346', 'microplate-lids-seals-740874'}
+thin-layer-chromatography
+  chromatography-papers
+    Number of elements = 2: {'itlc-sa', 'itlc-sg'}
+clinical-mass-spectrometry
+  clinical-lc-ms
+    Number of elements = 2: {'infinity-lc-clinical-edition-k6460-triple-quadrupole-ms-924850', 'k6460s-clinical-edition-tq-lc-ms-system-924852'}
+community-design-microarrays
+  acd-microarrays
+    Number of elements = 2: {'agilent-community-design-model-organism-microarrays-994562', 'agilent-community-designs-prenatal-research-microarray-994561'}
+artisan-link-for-special-stains
+  Number of elements = 2: {'artisan-link-pro-special-staining-system', 'artisan-accessories'}
+tapestation-automated-electrophoresis
+  Number of elements = 5: {'tapestation-software', 'tapestation-rna-screentape-reagents', 'tapestation-parts-accessories', 'tapestation-protein-screentape-reagents', 'tapestation-dna-screentape-reagents'}
+sureprint-oligonucleotide-library-synthesis
+  oligonucleotide-library-synthesis
+    Number of elements = 2: {'sureprint-oligonucleotide-libraries-288039', 'sureprint-hifi-oligonucleotide-libraries-1813418'}
+hybridizer-for-molecular-pathology
+  hybridizer-accessories
+    Number of elements = 1: {'hybridizer-76064'}
